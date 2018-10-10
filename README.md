@@ -1,3 +1,24 @@
+# GDG Devfest Emilia Romagna 2018 
+## Setup
+1. Fork repository and clone it locally
+1. Setup Environment
+   * Install [Node.js (v8.9.4 or above)](https://nodejs.org/en/download/)
+   * Install Firebase CLI: `npm i -g firebase-tools` or `yarn global add firebase-tools` (requires Node <= 9)
+1. Install project dependencies: `npm install` or `yarn`
+1. Login into [Firebase CLI](https://firebase.google.com/docs/cli/): `firebase login` (if you don't have access to gdgbologna's account, ask to be added to the firebase project)
+1. Put `production.json` and `development.json` inside the `config` folder (you can find those files on Trello)
+1. Run locally
+   * `npm run serve` or `yarn serve`
+1. Build and deploy
+   * `npm run build` or `yarn build`
+   * `npm run deploy` or `yarn deploy`
+1. Enjoy
+
+
+---
+
+
+
 <p align="center">
 <img width="800px" src="https://user-images.githubusercontent.com/2954281/42683571-55ba6be6-8696-11e8-8ff7-e9acd0db63e8.png">
 </p>
