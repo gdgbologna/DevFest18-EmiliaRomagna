@@ -11,6 +11,5 @@ functions/lib/
 /appengine/dist/
 serviceAccount.json
 
-yarn-error-log
-yarn.lock
+yarn-error.log
 *.cache
