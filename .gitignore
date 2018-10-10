@@ -1,5 +1,6 @@
 bower_components/
 dist/
+config/
 node_modules/
 build/
 functions/lib/
@@ -9,3 +10,7 @@ functions/lib/
 .firebaserc
 /appengine/dist/
 serviceAccount.json
+
+yarn-error-log
+yarn.lock
+*.cache
