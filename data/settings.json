@@ -112,13 +112,13 @@
     "short": "Reggio Emilia, Italia",
     "address": " Piazzale Europa, 1, 42124 Reggio Emilia RE",
     "pointer": {
-      "latitude": 44.696240,
-      "longitude": 10.627900,
+      "latitude": 44.699358,
+      "longitude": 10.645799000000011,
       "zoom": 9
     },
     "mapCenter": {
-      "latitude": 44.696240,
-      "longitude": 10.627900
+      "latitude": 44.699358,
+      "longitude": 10.645799000000011
     },
     "description": "Fresco di ristrutturazione, il Tecnopolo di Reggio Emilia si colloca nell’Area “Ex Reggiane”, dove è in fase di attuazione il progetto per la trasformazione delle storiche Officine Meccaniche Reggiane"
   },
@@ -139,7 +139,7 @@
     }
   },
   "socialNetwork": {
-    "follow": [
+    "gdgbologna": [
       {
         "name": "meetup",
         "url": "https://www.meetup.com/it-IT/gdgbologna/"
@@ -151,7 +151,8 @@
       {
         "name": "twitter",
         "url": "https://twitter.com/gdgbologna/"
-      },
+      }],
+    "gdgreggio": [
       {
         "name": "meetup",
         "url": "https://www.meetup.com/it-IT/gdgreggioemilia/"
@@ -210,7 +211,7 @@
       "itemsCount": 2
     },
     "blog": {
-      "itemsCount": 3
+      "itemsCount": 0
     },
     "speakers": {
       "itemsCount": 4
@@ -219,7 +220,7 @@
       "itemsCount": 6
     },
     "tickets": {
-      "itemsCount": 5
+      "itemsCount": 1
     }
   }
 }

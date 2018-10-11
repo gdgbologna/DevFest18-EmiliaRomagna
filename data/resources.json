@@ -1,36 +1,39 @@
 {
-  "title": "DevFest Emilia Romagna",
-  "description": "",
-  "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "1 Dicembre 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Segui il nostro",
-  "followUs": "Seguici",
-  "emailUs": "Scrivici",
-  "partnershipResources": "Partnership Resources",
-  "eventResources": "Risorse Evento",
-  "buyTicket": "Compra un biglietto",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "viewHighlights": "View Highlights",
-  "offlineMessage": "You can still work offline.",
-  "cachingComplete": "Caching complete! Future visits will work offline.",
-  "newVersionAvailable": "Una nuova versione del app della devfest è disponibile!",
-  "refresh": "Aggiorna",
-  "position": "Posizione",
-  "country": "Stato",
-  "time": "Tempo",
-  "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
-  "footer": {
-    "blog": "Blog"
-  },
-  "mySchedule": {
-    "title": "La tua schedule",
-    "browseSession": "Guarda sessioni"
-  },
+    "title": "DevFest Emilia Romagna",
+    "description": "",
+    "image": "images/social-share.jpg",
+    "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
+    "dates": "1 Dicembre 2018",
+    "partnershipProposition": "https://bit.ly/dfua17-partners",
+    "share": "Share",
+    "follow": "Segui",
+    "followOur": "Segui il nostro",
+    "followUs": "Seguici",
+    "emailUs": "Scrivici",
+    "partnershipResources": "Partnership Resources",
+    "eventResources": "Risorse Evento",
+    "buyTicket": "Get your ticket",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "viewHighlights": "View Highlights",
+    "becomeSpeaker": "Become a Speaker",
+    "becomeSponsor": "Become a Sponsor",
+    "offlineMessage": "You can still work offline.",
+    "cachingComplete": "Caching complete! Future visits will work offline.",
+    "newVersionAvailable": "Una nuova versione del app della devfest è disponibile!",
+    "refresh": "Aggiorna",
+    "position": "Posizione",
+    "country": "Stato",
+    "time": "Tempo",
+    "faq": "/data/faq.md",
+    "cod": "/data/cod.md",
+    "footer": {
+        "blog": "Blog"
+    },
+    "mySchedule": {
+        "title": "La tua schedule",
+        "browseSession": "Guarda sessioni"
+    },
     "footerRelBlock": [{
             "title": "About",
             "links": [{
@@ -73,37 +76,42 @@
     "subscribeNote": "No spam, solo le ultime news ed aggiornamenti!",
     "codeOfConduct": "Code of Conduct",
     "aboutBlock": {
-        "title": "Cosa è la Devfest",
+        "title": "Cos'è una Devfest",
         "callToAction": {
             "featuredSessions": {
-                "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento proposto da Google stessa e si tiene in tutto il mondo, solitamente nel periodo autunnale. Come dice la parola, la DevFest è prima di tutto una festa, un momento di ritrovo per gli sviluppatori, i professionisti dell’informatica, gli studenti e i tech enthusiast in generale.",
-                "label": "Explore featured session",
+                "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento sponsorizzato da Google e proposto in tutto il mondo, solitamente nel periodo autunnale. Come dice il nome, la DevFest è prima di tutto una festa, un momento di ritrovo per Developers, professionisti dell’informatica,  studenti e tech enthusiast in generale.",
+                "label": "Guarda il video",
                 "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+            },
+            "howItWas": {
+                "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+                "label": "See how it was in 2016",
+                "youtubeId": "TdpbgRgz6eE"
             }
         },
         "statisticsBlock": {
             "attendees": {
-                "label": "Attendees",
-                "number": ""
+                "label": "Partecipanti",
+                "number": "100+"
             },
             "days": {
-                "label": "Days",
-                "number": "2"
+                "label": "Tematiche",
+                "number": "7+"
             },
             "sessions": {
-                "label": "Sessions",
-                "number": "50"
+                "label": "Speaker",
+                "number": "5+"
             },
             "tracks": {
-                "label": "Tracks",
-                "number": "4"
+                "label": "Partner",
+                "number": "3+"
             }
         }
     },
     "ticketsBlock": {
         "title": "Tickets",
         "ticketsDetails": "*Il biglietto garantisce l'accesso alla conferenza, ai coffee breaks e al pranzo.",
-        "soldOut": "OPS, sono finiti :(",
+        "soldOut": "OPS... sono già finiti :(",
         "notAvailableYet": "Non ancora disponibili.",
         "save": "Save ${discount}% today"
     },
@@ -135,9 +143,9 @@
         "previousYear": "Year"
     },
     "speakersBlock": {
-        "title": "Rockstar speakers",
+        "title": "Gli speakers",
         "callToAction": {
-            "label": "View all speakers",
+            "label": "Scopri tutti gli speakers",
             "link": "/speakers/"
         }
     },
@@ -161,8 +169,8 @@
     },
     "subscribeBlock": {
         "callToAction": {
-            "description": "Get notified about the important conference updates",
-            "label": "Subscribe"
+            "description": "Ricevi gli ultimi aggiornamenti sulla DevFest Emilia Romagna",
+            "label": "Iscriviti"
         },
         "yourEmail": "La tua email",
         "emailAddress": "Email Address",

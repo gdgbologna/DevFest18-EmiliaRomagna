@@ -157,10 +157,10 @@
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
-            ga-event-label="hero block - view highlights"
+            ga-event-label="hero block - become speaker"
           >
-            <iron-icon icon="hoverboard:movie"></iron-icon>
-            {$ viewHighlights $}
+            <iron-icon icon="hoverboard:microphone"></iron-icon>
+            {$ becomeSpeaker $}
           </paper-button>
           <paper-button
             on-tap="_scrollToTickets"
@@ -173,6 +173,18 @@
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             {$ buyTicket $}
           </paper-button>
+          <paper-button
+            class="watch-video"
+            on-tap="_playVideo"
+            ga-on="click"
+            ga-event-category="video"
+            ga-event-action="watch"
+            ga-event-label="hero block - become sponsor"
+          >
+            <iron-icon icon="hoverboard:people"></iron-icon>
+            {$ becomeSponsor $}
+          </paper-button>
+
         </div>
 
         <div class="scroll-down" on-tap="_scrollNextBlock">
@@ -188,10 +200,10 @@
     <speakers-block></speakers-block>
     <subscribe-block></subscribe-block>
     <tickets-block></tickets-block>
-    <gallery-block></gallery-block>
+    <!-- <gallery-block></gallery-block> -->
     <about-organizer-block></about-organizer-block>
-    <featured-videos></featured-videos>
-    <latest-posts-block></latest-posts-block>
+    <!-- <featured-videos></featured-videos> -->
+    <!-- <latest-posts-block></latest-posts-block> -->
     <map-block></map-block>
     <partners-block></partners-block>
     <footer-block></footer-block>

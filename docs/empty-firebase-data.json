@@ -1,0 +1,35 @@
+{
+    "blog": {},
+    "gallery": [],
+    "notifications": {
+        "config": {
+            "icon": "",
+            "timezone": "+03:00"
+        },
+        "messages": {},
+        "subscribers": {},
+        "test": {},
+        "users": {}
+    },
+    "partners": [],
+    "schedule": {},
+    "sessions": {},
+    "speakers": {},
+    "team": [],
+    "tickets": [{
+        "available": true,
+        "currency": "€",
+        "ends": "Nov 30",
+        "info": "Accesso gratuito",
+        "name": "FREE",
+        "price": 0,
+        "soldOut": false,
+        "starts": "Ott 20",
+        "url": "https://2event.com/events/1027108"
+    }],
+    "triggers": {
+        "images": false
+    },
+    "videos": [],
+    "previousSpeakers": {}
+}
