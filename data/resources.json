@@ -1,4 +1,9 @@
 {
+    "devFestER": {
+        "eventbriteURL": "https://www.eventbrite.it/preview?eid=51326241169",
+        "cfpURL": "https://sessionize.com/devfest-emilia-romagna-2018/",
+        "brochureURL": "https://sessionize.com/devfest-emilia-romagna-2018/"
+    },
     "title": "DevFest Emilia Romagna",
     "description": "",
     "image": "images/social-share.jpg",
@@ -17,7 +22,7 @@
     "signOut": "Sign out",
     "viewHighlights": "View Highlights",
     "becomeSpeaker": "Become a Speaker",
-    "becomeSponsor": "Become a Sponsor",
+    "becomePartner": "Become a Partner",
     "offlineMessage": "You can still work offline.",
     "cachingComplete": "Caching complete! Future visits will work offline.",
     "newVersionAvailable": "Una nuova versione del app della devfest è disponibile!",
@@ -61,16 +66,10 @@
         {
             "title": "Risorse dell'evento",
             "links": [{
-                    "name": "Call for Papers",
-                    "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-                    "newTab": true
-                },
-                {
-                    "name": "Brochure Partnership",
-                    "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-                    "newTab": true
-                }
-            ]
+                "name": "Call for Papers",
+                "url": "https://sessionize.com/devfest-emilia-romagna-2018/",
+                "newTab": true
+            }]
         }
     ],
     "subscribeNote": "No spam, solo le ultime news ed aggiornamenti!",
@@ -80,8 +79,8 @@
         "callToAction": {
             "featuredSessions": {
                 "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento sponsorizzato da Google e proposto in tutto il mondo, solitamente nel periodo autunnale. Come dice il nome, la DevFest è prima di tutto una festa, un momento di ritrovo per Developers, professionisti dell’informatica,  studenti e tech enthusiast in generale.",
-                "label": "Guarda il video",
-                "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+                "label": "Scopri di più",
+                "link": "https://devfest.withgoogle.com/?hl=vi"
             },
             "howItWas": {
                 "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
@@ -227,8 +226,8 @@
                 "title": "Cos'è un GDG?",
                 "description": "Google Developers Group (GDG) - è una community aperta di appassionati che crea e condivide esperienze sulla tecnologia. Principalmente Google... ma non solo!",
                 "callToAction": {
-                    "label": "Read more",
-                    "link": "https://developers.google.com/groups/",
+                    "label": "Guarda il video",
+                    "link": "https://www.youtube.com/watch?v=KlWVfEiW7Ak",
                     "newTab": true
                 }
             }

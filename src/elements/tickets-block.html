@@ -126,60 +126,43 @@
 
     <div class="tickets-wrapper container">
       <h1 class="container-title">{$ ticketsBlock.title $}</h1>
-      <content-loader
-        class="tickets-placeholder"
-        card-padding="24px"
-        card-height="216px"
-        border-radius="var(--border-radius)"
-        title-top-position="32px"
-        title-height="42px"
-        title-width="70%"
-        load-from="-70%"
-        load-to="130%"
-        animation-time="1s"
-        items-count="{$ contentLoaders.tickets.itemsCount $}"
-        hidden$="[[contentLoaderVisibility]]">
-      </content-loader>
 
       <div class="tickets" layout horizontal wrap center-justified>
-        <template is="dom-repeat" items="[[tickets]]" as="ticket">
           <a
             class="ticket-item card"
-            href$="[[ticket.url]]"
+            href="{$ devFestER.eventbriteUrl $}"
             target="_blank"
             rel="noopener noreferrer"
-            sold-out$="[[ticket.soldOut]]"
-            in-demand$="[[ticket.inDemand]]"
+            sold-out$="[[false]]"
+            in-demand$="true"
             on-tap="_onTicketTap"
             ga-on="click"
             ga-event-category="ticket"
             ga-event-action="buy_click"
-            ga-event-label$="[[ticket.name]]"
+            ga-event-label$="FREE"
             layout vertical
           >
             <div class="header">
-              <h4>[[ticket.currency]][[ticket.price]]</h4>
+              <h4>€0</h4>
             </div>
             <div class="content" layout vertical flex-auto>
               <div class="ticket-price-wrapper">
-                <div class="price">[[ticket.name]]</div>
-                <div class="discount">[[_getDiscount(ticket)]]</div>
+                <div class="price">FREE</div>
               </div>
               <div class="type-description" layout vertical flex-auto center-justified>
-                <div class="ticket-dates" hidden$="[[!ticket.starts]]">[[ticket.starts]] - [[ticket.ends]]</div>
-                <div class="ticket-info">[[ticket.info]]</div>
+                <div class="ticket-dates">Ott 20 - Nov 30</div>
+                <div class="ticket-info">INGRESSO</div>
               </div>
             </div>
             <div class="actions">
-              <div class="sold-out" block$="[[ticket.soldOut]]">
+              <div class="sold-out" block$="false">
                 {$ ticketsBlock.soldOut $}
               </div>
-              <paper-button primary hidden$="[[ticket.soldOut]]" disabled$="[[!ticket.available]]">
-                [[_getButtonText(ticket.available)]]
+              <paper-button primary hidden$="false" disabled$="false">
+              	{$ buyTicket $}
               </paper-button>
             </div>
           </a>
-        </template>
       </div>
 
       <div class="additional-info">*{$ ticketsBlock.ticketsDetails $}</div>

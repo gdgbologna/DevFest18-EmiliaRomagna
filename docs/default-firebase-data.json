@@ -36,19 +36,6 @@
         }
     },
     "team": [],
-    "tickets": [{
-        "primary": true,
-        "inDemand": true,
-        "available": true,
-        "currency": "€",
-        "ends": "Nov 30",
-        "info": "INGRESSO",
-        "name": "FREE",
-        "price": 0,
-        "soldOut": false,
-        "starts": "Ott 20",
-        "url": "https://2event.com/events/1027108"
-    }],
     "triggers": {
         "images": false
     },

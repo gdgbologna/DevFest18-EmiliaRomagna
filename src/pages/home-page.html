@@ -153,7 +153,7 @@
         <div class="action-buttons" layout horizontal center-justified wrap>
           <paper-button
             class="watch-video"
-            on-tap="_playVideo"
+            on-tap="_goToCFP"
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
@@ -179,10 +179,10 @@
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
-            ga-event-label="hero block - become sponsor"
+            ga-event-label="hero block - become partner"
           >
             <iron-icon icon="hoverboard:people"></iron-icon>
-            {$ becomeSponsor $}
+            {$ becomePartner $}
           </paper-button>
 
         </div>
@@ -234,6 +234,10 @@
           disableControls: true,
           opened: true,
         });
+      }
+
+      _goToCFP() {
+        window.open('{$ devFestER.cfpURL $}', '_blank');
       }
 
       _scrollToTickets() {
