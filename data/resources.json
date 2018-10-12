@@ -78,14 +78,14 @@
         "title": "Cos'è una Devfest",
         "callToAction": {
             "featuredSessions": {
-                "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento sponsorizzato da Google e proposto in tutto il mondo, solitamente nel periodo autunnale. Come dice il nome, la DevFest è prima di tutto una festa, un momento di ritrovo per Developers, professionisti dell’informatica,  studenti e tech enthusiast in generale.",
+                "description": "È l’evento GDG più importante dell’anno. Si tratta di un evento promosso da Google e proposto in tutto il mondo, solitamente nel periodo autunnale. Come dice il nome, la DevFest è prima di tutto una festa, un momento di ritrovo per Developers, professionisti dell’informatica,  studenti e tech enthusiast in generale.",
                 "label": "Scopri di più",
                 "link": "https://devfest.withgoogle.com/?hl=vi"
             },
             "howItWas": {
-                "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
-                "label": "See how it was in 2016",
-                "youtubeId": "TdpbgRgz6eE"
+                "description": "I Google Developers Group (GDG) sono community aperte di appassionati che creano e condividono esperienze sulla tecnologia. Principalmente Google... ma non solo!",
+                "label": "Guarda il video",
+                "youtubeId": "KlWVfEiW7Ak"
             }
         },
         "statisticsBlock": {

@@ -175,7 +175,7 @@
           </paper-button>
           <paper-button
             class="watch-video"
-            on-tap="_playVideo"
+            on-tap="_scrollToPartners"
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
@@ -201,7 +201,7 @@
     <subscribe-block></subscribe-block>
     <tickets-block></tickets-block>
     <!-- <gallery-block></gallery-block> -->
-    <about-organizer-block></about-organizer-block>
+    <!-- <about-organizer-block></about-organizer-block> -->
     <!-- <featured-videos></featured-videos> -->
     <!-- <latest-posts-block></latest-posts-block> -->
     <map-block></map-block>
@@ -247,6 +247,15 @@
         const ticketsBlockPositionY = HOVERBOARD.Elements.Tickets.getBoundingClientRect().top
           - toolbarHeight;
         this.scrollToY(ticketsBlockPositionY, 600, 'easeInOutSine');
+      }
+
+      _scrollToPartners() {
+        // eslint-disable-next-line no-undef
+        const toolbarHeight = HOVERBOARD.Elements.HeaderToolbar.getBoundingClientRect().height - 1;
+        // eslint-disable-next-line no-undef
+        const partnersBlockPositionY = HOVERBOARD.Elements.Partners.getBoundingClientRect().top
+          - toolbarHeight;
+        this.scrollToY(partnersBlockPositionY, 600, 'easeInOutSine');
       }
 
       _scrollNextBlock() {
