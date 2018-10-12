@@ -1,8 +1,13 @@
 {
   "organizer": {
     "name": "GDG Bologna",
-    "twitter": "gdgbologna",
+    "twitter": "GDGReggioEmilia",
     "url": "https://www.facebook.com/gdgbologna/"
+  },
+  "coorganizer": {
+    "name": "GDG Reggio Emilia",
+    "twitter": "gdgbologna",
+    "url": "https://www.facebook.com/gdgreggioemilia/"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -58,7 +63,7 @@
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Scopri i Googlers, i Partner, e tutti gli Speaker che saranno nostri ospiti! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuovi.",
-      "description": "Vieni a seguire Googlers, Partner, e tutti gli Speaker che saranno nostri ospiti! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuovi.",
+      "description": "Vieni a seguire Googlers, Partner, e tutti gli Speaker che saranno nostri ospiti! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuovi...",
       "background": {
         "color": "#FFF"
       },
@@ -75,7 +80,7 @@
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Scegli quali sessioni seguire",
-      "description": "Scopri e scegli quali sessioni seguire! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuove.",
+      "description": "Scopri quali sessioni seguire! Fai login per salvare le tue preferite. Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuove...",
       "background": {
         "color": "#fff"
       },
@@ -84,7 +89,6 @@
     "team": {
       "title": "Team",
       "metaDescription": "Scopri maggiori informazioni sugli organizzatori",
-      "description": "Scopri chi ha organizzato questo evento!",
       "background": {
         "color": "#fff"
       },

@@ -11,31 +11,91 @@
         "test": {},
         "users": {}
     },
-    "partners": [],
+    "partners": [{
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://tecnopolo.re.it/wp-content/uploads/2018/10/tecnopoloRE-125.png",
+            "name": "Tecnopolo Reggio Emilia",
+            "url": "https://tecnopolo.re.it/"
+        }, {
+            "order": 1,
+            "logoUrl": "https://www.aster.it/sites/all/themes/aster/images/aster-logo.svg",
+            "name": "ASTER",
+            "url": "https://www.aster.it/"
+        }],
+        "order": 0,
+        "title": "Sponsor"
+    }, {
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
+            "name": "Sessionize",
+            "url": "https://sessionize.com/"
+        }],
+        "order": 1,
+        "title": "Media Partners"
+    }],
     "schedule": {},
     "sessions": {},
-    "speakers": {
-        "devid_farinelli": {
-            "bio": "Studente di informatica, Developer e manager del GDG Bologna",
-            "company": "",
-            "companyLogo": "",
-            "companyLogoUrl": "",
-            "country": "Italia",
-            "featured": true,
+    "speakers": {},
+    "team": [{
+        "members": [{
             "name": "Devid Farinelli",
-            "photo": "/images/people/adrian_kajda.jpg",
-            "photoUrl": "https://scontent-mxp1-1.xx.fbcdn.net/v/t31.0-8/13235393_10209148128241522_6827930951649995225_o.jpg?_nc_cat=111&oh=fde8e078bccef9ab33f55fad2576cf12&oe=5C58B0FB",
-            "shortBio": "Siluppo questo sito al momento",
+            "photoUrl": "https://lh3.googleusercontent.com/cTz5IWCzyZhVp_28PiYa9H38cGuj1dEAw5G27aDhIk6_UQ2nw4yFprWgMo5p-n2WqSAMJrWKq-NGAL4=w1418-h1416-rw-no",
             "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/misterdev_",
+                "name": "Twitter"
+            }, {
+                "icon": "github",
+                "link": "https://github.com/misterdev",
+                "name": "Github"
+            }, {
                 "icon": "website",
-                "link": "http://www.devid.io/",
+                "link": "http://devid.io/",
                 "name": "Website"
             }],
             "order": 0,
-            "title": "Product Manager/Developer"
-        }
-    },
-    "team": [],
+            "title": "Website / Sponsors / Un po' di tutto | GDG Bologna"
+        }, {
+            "name": "Federico Govoni",
+            "photoUrl": "https://avatars2.githubusercontent.com/u/7337665?s=400&v=4",
+            "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/fedegovo",
+                "name": "Twitter"
+            }, {
+                "icon": "github",
+                "link": "https://github.com/Govoz",
+                "name": "Github"
+            }, {
+                "icon": "website",
+                "link": "fedegovo.altervista.org",
+                "name": "Website"
+            }],
+            "order": 1,
+            "title": "Organizer | GDG Bologna"
+        }, {
+            "name": "Erik Minarini",
+            "photoUrl": "https://avatars2.githubusercontent.com/u/11076285?s=460&v=4",
+            "socials": [{
+                "icon": "website",
+                "link": "dojester13.github.io",
+                "name": "Website"
+            }, {
+                "icon": "twitter",
+                "link": "https://twitter.com/doJester13",
+                "name": "Twitter"
+            }, {
+                "icon": "github",
+                "link": "https://github.com/doJester13",
+                "name": "Github"
+            }],
+            "order": 1,
+            "title": "Organizer | GDG Bologna"
+        }],
+        "title": "Core Team"
+    }],
     "triggers": {
         "images": false
     },

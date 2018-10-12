@@ -57,9 +57,9 @@
                     "newTab": true
                 },
                 {
-                    "name": "Conosci il Team",
-                    "url": "https://devfest.gdg.org.ua/team/",
-                    "newTab": true
+                    "name": "Conosci il team",
+                    "url": "team/",
+                    "newTab": false
                 }
             ]
         },
@@ -119,11 +119,11 @@
         "button": "Diventa partner",
         "form": {
             "title": "Diventa partner!",
-            "submitLabel": "Invita",
-            "fullName": "Full Name",
+            "submitLabel": "Invia",
+            "fullName": "Nome e Cognome",
             "companyName": "Company Name"
         },
-        "toast": "Ti contatteremo a breve!"
+        "toast": "Grazie! Ti contatteremo a breve"
     },
     "blog": {
         "published": "Published",
@@ -184,7 +184,7 @@
         "toast": "Iscrizione avvenuta con successo!"
     },
     "team": {
-        "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+        "description": "Il [Google Developers Group (GDG) Bologna](https://www.facebook.com/gdgbologna/) e [GDG Reggio Emilia](https://www.facebook.com/gdgreggioemilia/) sono comunity di appassionati che condividono esperienze sulla tecnologia. Con energia ed entusiasmo organizzano eventi in Emilia Romagna da diversi anni contribuendo allo sviluppo tecnologico del territorio, approfondendo tecnologie Google ma non solo."
     },
     "schedule": {
         "saveSessionsSignedOut": "Accedi per salvare le tue sessioni."
@@ -203,7 +203,7 @@
         "enabled": "Ci mancheresti, ma puoi disinscriverti quando vuoi",
         "blocked": "Non possiamo mandarti notifiche al momento. Abilita le notifiche del browser",
         "subscribe": "Iscriviti",
-        "unsubscribe": "Disi",
+        "unsubscribe": "Disiscriviti",
         "enable": {
             "label": "Enable",
             "link": "https://pushassist.com/knowledgebase/how-to-enable-or-disable-push-notifications-on-chrome-firefox-safari-b/"
