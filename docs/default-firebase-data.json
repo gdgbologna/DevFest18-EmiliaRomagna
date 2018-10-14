@@ -54,9 +54,13 @@
                 "icon": "website",
                 "link": "http://devid.io/",
                 "name": "Website"
+            }, {
+                "icon": "linkedin",
+                "link": "www.linkedin.com/in/misterdev",
+                "name": "linkedin"
             }],
             "order": 0,
-            "title": "Website / Sponsors / Un po' di tutto | GDG Bologna"
+            "title": "Organizer | Quello simpatico che ha scritto le descrizioni sul Website | MC | GDG Bologna"
         }, {
             "name": "Federico Govoni",
             "photoUrl": "https://avatars2.githubusercontent.com/u/7337665?s=400&v=4",
@@ -74,7 +78,7 @@
                 "name": "Website"
             }],
             "order": 1,
-            "title": "Organizer | GDG Bologna"
+            "title": "Organizer | Esperto di Sport Noiosi | GDG Bologna"
         }, {
             "name": "Erik Minarini",
             "photoUrl": "https://avatars2.githubusercontent.com/u/11076285?s=460&v=4",
@@ -92,7 +96,21 @@
                 "name": "Github"
             }],
             "order": 1,
-            "title": "Organizer | GDG Bologna"
+            "title": "Organizer | Appasionato di Salumeria | GDG Bologna"
+        }, {
+            "name": "Federico Bertani",
+            "photoUrl": "https://avatars1.githubusercontent.com/u/15829877?s=460&v=4",
+            "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/bertanifederico",
+                "name": "Twitter"
+            }, {
+                "icon": "github",
+                "link": "https://github.com/federicoB",
+                "name": "Github"
+            }],
+            "order": 1,
+            "title": "Organizer | Creatura Pura | GDG Bologna"
         }],
         "title": "Core Team"
     }],
