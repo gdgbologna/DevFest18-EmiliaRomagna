@@ -14,14 +14,14 @@
     "partners": [{
         "logos": [{
             "order": 0,
-            "logoUrl": "https://tecnopolo.re.it/wp-content/uploads/2018/10/tecnopoloRE-125.png",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1539608770/Partner/tecnopolo.jpg",
             "name": "Tecnopolo Reggio Emilia",
             "url": "https://tecnopolo.re.it/"
         }, {
             "order": 1,
-            "logoUrl": "https://www.aster.it/sites/all/themes/aster/images/aster-logo.svg",
-            "name": "ASTER",
-            "url": "https://www.aster.it/"
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1539608771/Partner/rei.png",
+            "name": "Fondazione REI",
+            "url": "http://www.reinnova.it/"
         }],
         "order": 0,
         "title": "Sponsor"
