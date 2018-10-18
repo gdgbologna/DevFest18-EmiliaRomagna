@@ -163,7 +163,7 @@
             {$ becomeSpeaker $}
           </paper-button>
           <paper-button
-            on-tap="_scrollToTickets"
+            on-tap="_goToTickets"
             ga-on="click"
             ga-event-category="tickets"
             ga-event-action="scroll"
@@ -175,7 +175,7 @@
           </paper-button>
           <paper-button
             class="watch-video"
-            on-tap="_scrollToPartners"
+            on-tap="_goToBrochure"
             ga-on="click"
             ga-event-category="video"
             ga-event-action="watch"
@@ -238,6 +238,14 @@
 
       _goToCFP() {
         window.open('{$ devFestER.cfpURL $}', '_blank');
+      }
+
+      _goToBrochure() {
+        window.open('{$ devFestER.brochureURL $}', '_blank');
+      }
+
+      _goToTickets() {
+        window.open('{$ devFestER.eventbriteURL $}', '_blank');
       }
 
       _scrollToTickets() {

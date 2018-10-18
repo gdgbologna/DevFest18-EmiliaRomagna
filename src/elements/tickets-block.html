@@ -135,7 +135,7 @@
             rel="noopener noreferrer"
             sold-out="[[false]]"
             in-demand="true"
-            on-tap="_onTicketTap"
+            on-tap="_goToTickets"
             ga-on="click"
             ga-event-category="ticket"
             ga-event-action="buy_click"
@@ -155,9 +155,11 @@
               <div class="sold-out" block$="false">
                 {$ ticketsBlock.soldOut $}
               </div>
+
               <paper-button primary hidden$="false" disabled$="false">
-              	{$ buyTicket $}
+                {$ buyTicket $}
               </paper-button>
+
             </div>
           </a>
       </div>
@@ -215,6 +217,10 @@
         if (!ticket.regular || ticket.primary || ticket.soldOut || !maxPrice) return;
         const discount = 100 - parseInt(ticket.price) * 100 / parseInt(maxPrice);
         return ((discount) => `{$ ticketsBlock.save $}`)(Math.round(discount));
+      }
+
+      _goToTickets() {
+        window.open('{$ devFestER.eventbriteURL $}', '_blank');
       }
 
       _onTicketTap(e) {
