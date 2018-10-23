@@ -69,7 +69,7 @@
                 "name": "Website"
             }, {
                 "icon": "linkedin",
-                "link": "www.linkedin.com/in/misterdev",
+                "link": "http://www.linkedin.com/in/misterdev",
                 "name": "linkedin"
             }],
             "order": 0,
@@ -107,6 +107,10 @@
                 "icon": "github",
                 "link": "https://github.com/doJester13",
                 "name": "Github"
+            }, {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/erik-minarini-228945b4/",
+                "name": "Linkedin"
             }],
             "order": 1,
             "title": "Organizer | GDG Bologna"
