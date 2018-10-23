@@ -51,6 +51,7 @@
     "sessions": {},
     "speakers": {},
     "team": [{
+        "title": "Core Team",
         "members": [{
             "name": "Devid Farinelli",
             "photoUrl": "https://lh3.googleusercontent.com/cTz5IWCzyZhVp_28PiYa9H38cGuj1dEAw5G27aDhIk6_UQ2nw4yFprWgMo5p-n2WqSAMJrWKq-NGAL4=w1418-h1416-rw-no",
@@ -123,8 +124,28 @@
             }],
             "order": 1,
             "title": "Organizer | GDG Bologna"
-        }],
-        "title": "Core Team"
+        }]
+    }, {
+        "title": "Assistant Team",
+        "members": [{
+            "name": "Giorgio Renzi",
+            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540324377/Team/giorgio-renzi.jpg",
+            "socials": [{
+                "icon": "twitter",
+                "link": "https://twitter.com/giogg_io",
+                "name": "Twitter"
+            }, {
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/giorgiorenzi/",
+                "name": "Linkedin"
+            }, {
+                "icon": "github",
+                "link": "https://github.com/gioggio",
+                "name": "Github"
+            }],
+            "order": 1,
+            "title": "Computer Engineering student @ Unibo"
+        }]
     }],
     "triggers": {
         "images": false
