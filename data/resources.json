@@ -103,7 +103,7 @@
             },
             "tracks": {
                 "label": "Partner",
-                "number": "3+"
+                "number": "7+"
             }
         }
     },
@@ -168,7 +168,7 @@
     },
     "subscribeBlock": {
         "callToAction": {
-            "description": "Ricevi gli ultimi aggiornamenti sulla DevFest Emilia Romagna",
+            "description": "Iscriviti per ricevere gli aggiornamenti sulla DevFest Emilia Romagna",
             "label": "Iscriviti"
         },
         "yourEmail": "La tua email",
