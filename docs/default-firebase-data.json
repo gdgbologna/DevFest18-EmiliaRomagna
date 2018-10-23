@@ -86,7 +86,7 @@
                 "name": "Github"
             }, {
                 "icon": "website",
-                "link": "fedegovo.altervista.org",
+                "link": "https://fedegovo.altervista.org",
                 "name": "Website"
             }],
             "order": 1,
@@ -96,7 +96,7 @@
             "photoUrl": "https://avatars2.githubusercontent.com/u/11076285?s=460&v=4",
             "socials": [{
                 "icon": "website",
-                "link": "dojester13.github.io",
+                "link": "https://dojester13.github.io",
                 "name": "Website"
             }, {
                 "icon": "twitter",
