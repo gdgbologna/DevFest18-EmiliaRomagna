@@ -31,14 +31,21 @@
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540310543/Partner/luogocomune.png",
                 "name": "Luogocomune Coworking",
                 "url": "https://www.luogo-comune.com/"
-            }, {
+            },
+            {
                 "order": 1,
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540900653/Partner/fpbo_logo1.png",
+                "name": "Functional Programming Bologna",
+                "url": "https://www.facebook.com/fpinbo/"
+            },
+            {
+                "order": 2,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540310756/Partner/adi.png",
                 "name": "Android Developers Italia",
                 "url": "http://androiddevs.it"
             },
             {
-                "order": 2,
+                "order": 3,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
