@@ -72,6 +72,12 @@
             },
             {
                 "order": 4,
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541454499/Partner/impact_hub.jpg",
+                "name": "Impact Hub Reggio Emilia",
+                "url": "http://www.impacthubre.it/"
+            },
+            {
+                "order": 5,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
