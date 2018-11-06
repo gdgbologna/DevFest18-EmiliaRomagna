@@ -21,6 +21,15 @@
             "url": "https://www.injenia.it/"
         }]
     },{
+        "order": 1,
+        "title": "Special Sponsor",
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541506522/Partner/google.png",
+            "name": "Google",
+            "url": "https://developers.google.com/programs/community/gdg/"
+        }]
+    },{
         "order": 2,
         "title": "Silver Sponsor",
         "logos": [{
