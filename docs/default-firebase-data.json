@@ -12,7 +12,16 @@
         "users": {}
     },
     "partners": [{
-        "order": 1,
+        "order": 0,
+        "title": "General Sponsor",
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541505696/Partner/injenia.png",
+            "name": "Injenia",
+            "url": "https://www.injenia.it/"
+        }]
+    },{
+        "order": 2,
         "title": "Silver Sponsor",
         "logos": [{
             "order": 0,
@@ -21,7 +30,7 @@
             "url": "http://www.thesis-srl.com/"
         }]
     }, {
-        "order": 1,
+        "order": 3,
         "title": "Hosting Partners",
         "logos": [{
             "order": 0,
@@ -35,7 +44,7 @@
             "url": "http://www.reinnova.it/"
         }]
     }, {
-        "order": 2,
+        "order": 4,
         "title": "Special Partners",
         "logos": [{
             "order": 0,
@@ -44,7 +53,7 @@
             "url": "http://udemy.com/"
         }]
     }, {
-        "order": 3,
+        "order": 5,
         "title": "Media Partners",
         "logos": [{
                 "order": 0,
