@@ -34,7 +34,7 @@
         "title": "Gold Sponsor",
         "logos": [{
             "order": 0,
-            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_aut/v1541683856/Partner/touchlabs.png",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541683856/Partner/touchlabs.png",
             "name": "Touchlabs",
             "url": "https://www.touchlabs.it/"
         }]
