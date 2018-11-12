@@ -37,6 +37,11 @@
             "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541683856/Partner/touchlabs.png",
             "name": "Touchlabs",
             "url": "https://www.touchlabs.it/"
+        }, {
+            "order": 1,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541687913/Partner/zuru.png",
+            "name": "Zuru Tech",
+            "url": "https://zuru.tech/"
         }]
     }, {
         "order": 3,
@@ -99,12 +104,18 @@
             },
             {
                 "order": 4,
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542042447/Partner/iaml.png",
+                "name": "Italian Association for Machine Learning",
+                "url": "https://iaml.it/"
+            },
+            {
+                "order": 5,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541454499/Partner/impact_hub.jpg",
                 "name": "Impact Hub Reggio Emilia",
                 "url": "http://www.impacthubre.it/"
             },
             {
-                "order": 5,
+                "order": 6,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
