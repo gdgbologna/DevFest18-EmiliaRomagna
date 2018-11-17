@@ -12,72 +12,110 @@
         "users": {}
     },
     "partners": [{
+        "order": 0,
+        "title": "General Sponsor",
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541505696/Partner/injenia.png",
+            "name": "Injenia",
+            "url": "https://www.injenia.it/"
+        }]
+    }, {
         "order": 1,
+        "title": "Special Sponsor",
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541506522/Partner/google.png",
+            "name": "Google",
+            "url": "https://developers.google.com/programs/community/gdg/"
+        }]
+    }, {
+        "order": 1,
+        "title": "Gold Sponsor",
+        "logos": [{
+            "order": 0,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541683856/Partner/touchlabs.png",
+            "name": "Touchlabs",
+            "url": "https://www.touchlabs.it/"
+        }, {
+            "order": 1,
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541687913/Partner/zuru.png",
+            "name": "Zuru Tech",
+            "url": "https://zuru.tech/"
+        }]
+    }, {
+        "order": 3,
         "title": "Silver Sponsor",
         "logos": [{
             "order": 0,
-            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541247475/Partner/thesis.png",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541247475/Partner/thesis.png",
             "name": "Thesis s.r.l.",
             "url": "http://www.thesis-srl.com/"
         }]
     }, {
-        "order": 1,
+        "order": 4,
         "title": "Hosting Partners",
         "logos": [{
             "order": 0,
-            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1539608770/Partner/tecnopolo.jpg",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1539608770/Partner/tecnopolo.jpg",
             "name": "Tecnopolo Reggio Emilia",
             "url": "https://tecnopolo.re.it/"
         }, {
             "order": 1,
-            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1539608771/Partner/rei.png",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1539608771/Partner/rei.png",
             "name": "Fondazione REI",
             "url": "http://www.reinnova.it/"
         }]
     }, {
-        "order": 2,
+        "order": 5,
         "title": "Special Partners",
         "logos": [{
             "order": 0,
-            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540910721/Partner/udemy.svg",
+            "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540910721/Partner/udemy.svg",
             "name": "Udemy",
             "url": "http://udemy.com/"
         }]
     }, {
-        "order": 3,
+        "order": 6,
         "title": "Media Partners",
         "logos": [{
                 "order": 0,
-                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541071478/Partner/tntc.png",
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541071478/Partner/tntc.png",
                 "name": "Tough Nut To Crack",
                 "url": "https://toughnuttocrack.it/"
 
             }, {
                 "order": 1,
-                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540310543/Partner/luogocomune.png",
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540310543/Partner/luogocomune.png",
                 "name": "Luogocomune Coworking",
                 "url": "https://www.luogo-comune.com/"
             },
             {
                 "order": 2,
-                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540900653/Partner/fpbo.png",
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540900653/Partner/fpbo.png",
                 "name": "Functional Programming Bologna",
                 "url": "https://www.facebook.com/fpinbo/"
             },
             {
                 "order": 3,
-                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540310756/Partner/adi.png",
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540310756/Partner/adi.png",
                 "name": "Android Developers Italia",
                 "url": "http://androiddevs.it"
             },
             {
                 "order": 4,
-                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1541454499/Partner/impact_hub.jpg",
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542042447/Partner/iaml.png",
+                "name": "Italian Association for Machine Learning",
+                "url": "https://iaml.it/"
+            },
+            {
+                "order": 5,
+                "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541454499/Partner/impact_hub.jpg",
                 "name": "Impact Hub Reggio Emilia",
                 "url": "http://www.impacthubre.it/"
             },
             {
-                "order": 5,
+                "order": 6,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
@@ -192,7 +230,7 @@
         "title": "Contributors ♡",
         "members": [{
             "name": "Giorgio Renzi",
-            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1540324377/Team/giorgio-renzi.jpg",
+            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540324377/Team/giorgio-renzi.jpg",
             "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/giogg_io",

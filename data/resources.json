@@ -99,11 +99,11 @@
             },
             "sessions": {
                 "label": "Speaker",
-                "number": "5+"
+                "number": "9+"
             },
             "tracks": {
                 "label": "Partner",
-                "number": "9+"
+                "number": "15+"
             }
         }
     },
