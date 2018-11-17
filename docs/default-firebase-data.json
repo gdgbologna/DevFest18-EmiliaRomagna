@@ -86,7 +86,29 @@
     }],
     "schedule": {},
     "sessions": {},
-    "speakers": {},
+    "speakers": {
+      "Fabio Collini": {
+        "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.He is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
+        "company": "New York Times",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
+        "featured": true,
+        "name": "Fabio Collini",
+        "photo": "",
+        "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1542495730/Speakers/Fabio_Collini.jpg",
+        "shortBio": "Fabio Collini is a Google Developer Expert for Android",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "plus.google.com/+AdrianKajda",
+            "name": "Google+"
+          }
+        ],
+        "order": 0,
+        "title" : "Android Engineer"
+    }
+    },
     "team": [{
         "title": "Core Team",
         "members": [{
