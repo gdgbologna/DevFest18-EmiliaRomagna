@@ -122,7 +122,150 @@
             }
         ]
     }],
-    "schedule": {},
+    "schedule": {
+      "2018-12-01": {
+        "date": "2018-12-01",
+        "dateReadable": "Programma della giornata",
+        "timeslots": [
+          {
+            "endTime": "10:55",
+            "sessions": [
+              {
+                "items": [
+                  "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"
+                ]
+              },
+              {
+                "items": [
+                  "unintroduzione_al_tdd"
+                ]
+              }
+            ],
+            "startTime": "10:00"
+          },
+          {
+            "endTime": "12:10",
+            "sessions": [
+              {
+                "items": [
+                  "google_cloud_101_architecture_and_orchestration"
+                ]
+              },
+              {
+                "items": [
+                  "ethereum_blockchain_development"
+                ]
+              }
+            ],
+            "startTime": "11:15"
+          },
+          {
+            "endTime": "12:50",
+            "sessions": [
+              {
+                "items": [
+                  "reasonml_enjoy_front-end_programming_again"
+                ]
+              },
+              {
+                "items": [
+                  "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto"
+                ]
+              }
+            ],
+            "startTime": "12:10"
+          },
+          {
+            "endTime": "14:40",
+            "sessions": [
+              {
+                "items": [
+                  "android_jet_navigation"
+                ]
+              },
+              {
+                "items": [
+                  "whats_new_in_tensorflow_20"
+                ]
+              }
+            ],
+            "startTime": "14:00"
+          },
+          {
+            "endTime": "15:35",
+            "sessions": [
+              {
+                "items": [
+                  "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+                ]
+              },
+              {
+                "items": [
+                  "continuous_integration_and_delivery_on_google_cloud"
+                ]
+              }
+            ],
+            "startTime": "14:40"
+          },
+          {
+            "endTime": "16:55",
+            "sessions": [
+              {
+                "items": [
+                  "python_parallel_computing"
+                ]
+              },
+              {
+                "items": [
+                  "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente"
+                ]
+              }
+            ],
+            "startTime": "16:00"
+          },
+          {
+            "endTime": "17:50",
+            "sessions": [
+              {
+                "items": [
+                  "ar_foundation_merging_ar_platforms"
+                ]
+              },
+              {
+                "items": [
+                  "event_loop_tales_on_io_bound_nodejs_applications"
+                ]
+              }
+            ],
+            "startTime": "16:55"
+          },
+          {
+            "endTime": "18:45",
+            "sessions": [
+              {
+                "items": [
+                  "solid_principles_in_practice_the_clean_architecture"
+                ]
+              },
+              {
+                "items": [
+                  "google_cloud_data_ml_and_ai_going_serveless"
+                ]
+              }
+            ],
+            "startTime": "17:50"
+          }
+        ],
+        "tracks": [
+          {
+            "title": "Main Room"
+          },
+          {
+            "title": "Top Room"
+          }
+        ]
+      }
+    },
     "sessions": {},
     "speakers": {
       "matteo_baraldi": {
