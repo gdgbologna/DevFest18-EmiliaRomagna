@@ -1,1 +1,282 @@
-{"ar_foundation_merging_ar_platforms": {"complexity" : "Intermediate", "description" : "Nowadays developing mobile augmented reality software can implicate having to create two separated projects with two different working pipelines; one for Android using ARCore and one for iOS using ARKit.\r\n\r\nAR Foundations, developed by Unity3D, adds multi-platform functionalities and utilities so developers can work with both devices using only one common set of API.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["erik_minarini", "matteo_baraldi"], "tags" : ["AugmentedReality", "Unity3D"], "title" : "AR Foundation: Merging AR Platforms", "videoId" : ""}, "python_parallel_computing": {"complexity" : "Intermediate", "description" : "Spremi al massimo il tuo processore al 100%!!!\r\nMolte applicazioni non sfruttano le possibilità prestazionali date dai processori multicore.\r\nVedremo come creare software che esegue istruzioni in parallelo senza ridurre l'eleganza del codice. Verranno anche spiegate semplici buone pratiche derivate dalla teoria della concorrenza per evitare possibili errori.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["federico_bertani"], "tags" : [], "title" : "Python Parallel Computing", "videoId" : ""}, "continuous_integration_and_delivery_on_google_cloud": {"complexity" : "Beginner", "description" : "L\u2019esigenza di rilasciare codice sempre più velocemente e le le tecnologie cloud-native come i container hanno favorito l\u2019approccio a microservizi. Questo ha comportato una maggior attenzione verso l\u2019automazione dell\u2019intera catena di rilascio del software. Questo speech mira ad affrontare questa necessità con gli strumenti e i servizi della Google Cloud Platform, presentando un caso d\u2019uso in produzione in Injenia.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["fausto_fusaro"], "tags" : ["GoogleCloud"], "title" : "Continuous Integration and Delivery on Google Cloud", "videoId" : ""}, "solid_principles_in_practice_the_clean_architecture": {"complexity" : "Intermediate", "description" : "La clean architecture è stata formalizzata in un post da Robert C. Martin nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "https://www.slideshare.net/fabio_collini/solid-principles-in-practice-the-clean-architecture", "speakers" : ["fabio_collini"], "tags" : ["Android", "Kotlin"], "title" : "SOLID principles in practice: the clean architecture", "videoId" : ""}, "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto": {"complexity" : "Beginner", "description" : "Durante il workshop verrà fatta una breve panoramica sui principi di funzionamento di Ansible, verrà mostrata la struttura di un progetto (playbook, ruoli, templates, etc.) e verranno fatti esempi pratici per comprendere il funzionamento di Ansible su ambienti di sviluppo in locale e in remoto (i.e. Google Cloud Platform).\r\n\r\nRivolto a chiunque voglia conoscere Ansible (developers, devops, etc.).\r\n\r\nSono richiesti Vagrant (https://www.vagrantup.com/downloads.html) e virtualbox già installati sui propri portatili.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["giovanni_albero"], "tags" : ["OpenSource", "Web", "GoogleCloud"], "title" : "Ansible - scrivere un playbook, gestire macchine virtuali in locale e in remoto.", "videoId" : ""}, "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente": {"complexity" : "Intermediate", "description" : "Spesso ci troviamo a svolgere attività ripetitive che potrebbero essere compiute automaticamente o facilitate da una Chrome extension. Ma come crearla? Affronteremo assieme la realizzazione e il mantenimento di questi utili software.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["giovanni_albero"], "tags" : ["Web", "OpenSource"], "title" : "Chrome extension: come svilupparle e mantenerle in modo efficiente", "videoId" : ""}, "google_cloud_101_architecture_and_orchestration": {"complexity" : "Beginner", "description" : "An hour dedicated to a quick tour of the Google Cloud Platform: its structure, its complexity, its tools, architectures and fundamentals. ", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["francesco_baldassarri"], "tags" : ["GoogleCloud"], "title" : "Google Cloud: 101: Architecture and Orchestration", "videoId" : ""}, "android_jet_navigation": {"complexity" : "Intermediate", "description" : "Change the way you navigate inside your Android mobile app. Let's see together how the new navigation architecture component can simplify the implementation of navigation in your app.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["matteo_bonifazi"], "tags" : ["Android"], "title" : "Android JET Navigation", "videoId" : ""}, "unintroduzione_al_tdd": {"complexity" : "Beginner", "description" : "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["mario_grimaldi"], "tags" : ["Kotlin"], "title" : "Un'introduzione al TDD", "videoId" : ""}, "event_loop_tales_on_io_bound_nodejs_applications": {"complexity" : "Advanced", "description" : "At brumbrum.it we have a zoo of microservices, interaction between them is obviously carried out through REST APIs. Our www microservice, aka frontend, is an isomorphic/universal JavaScript application bounded between users and the zoo, lots of 1:n HTTP requests there. Taming this type of Node.js application in production to survive traffic spikes and other wild behaviors brought us to deeply understand Node.js non-blocking model: it's too easy to react to problems with CDN and infamous memory/thread allocations. Node.js non-blocking model comes with simplicity in mind. In many cases this simplicity allows you to build apps quickly. But when you reach the edge, simplicity means responsibility. Let's dive in!", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["alessandro_aglietti"], "tags" : ["Web"], "title" : "Event loop tales on I/O bound Node.js applications", "videoId" : ""}, "ethereum_blockchain_development": {"complexity" : "Intermediate", "description" : "Durante lo svolgimento del corso mostreremo i concetti e gli strumenti necessari a comprendere come interagire con la blockchain Ethereum e come  contestualizzarla all'interno dell'ecosistema web tradizionale.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["giovanni_bruno"], "tags" : ["Blockchain"], "title" : "Ethereum Blockchain development", "videoId" : ""}, "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react": {"complexity" : "Intermediate", "description" : "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["michel_murabito"], "tags" : ["Firebase", "Web"], "title" : "La Morte Nera, e se fosse prototipizzata con Firebase e React?", "videoId" : ""}, "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain": {"complexity" : "Advanced", "description" : "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "https://docs.google.com/presentation/d/1FRi6jyuBpqkLt2snFiao1lMSTxAiRZ_5qMUJf3m8_jw/edit?usp=drivesdk", "speakers" : ["alessandro_aglietti"], "tags" : ["Blockchain", "Docker"], "title" : "Digital records evidence - Oracles and the Bitcoin blockchain", "videoId" : ""}, "reasonml_enjoy_front-end_programming_again": {"complexity" : "Intermediate", "description" : "Dopo aver usato linguaggi di programmazione moderni (es: Rust, Kotlin) è difficile tornare a Javascript. Il suo comportamento bizzarro ed il weak dynamic typing hanno portato alla nascita di un grande numero di tool o interi nuovi linguaggi per conviverci. ReasonML è un linguaggio funzionale che permette l'uso di astrazioni moderne senza sacrificare il pragmatismo di Javascript.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["alberto_nicoletti"], "tags" : ["Web"], "title" : "ReasonML: enjoy front-end programming again", "videoId" : ""}, "google_cloud_data_ml_and_ai_going_serveless": {"complexity" : "Intermediate", "description" : "First touch with data collection and analysis using the Google Cloud Platform. One-hour overview of Google Cloud Functions, Auto ML, pre-trained models and other useful tools. ", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["francesco_baldassarri"], "tags" : ["BigData", "GoogleCloud", "MachineLearning"], "title" : "Google Cloud: Data, ML and AI going serveless", "videoId" : ""}, "whats_new_in_tensorflow_20": {"complexity" : "Advanced", "description" : "La versione 2.0 di Tensorflow porterà molti cambiamenti al più popolare framework di machine learning: la maggior parte di essi con lo scopo di rendere il framework più accessibile ai novizi altri puramente architetturali. \r\nIn questo talk saranno presentate le maggiori differenze (note al momento) tra la versione 1.x e la versione 2.x evidenziando i cambiamenti necessari non solo alle codebase esistenti, ma anche al mindset dell'utilizzatore.", "icon" : "", "image" : "", "language" : "Italian", "languageFlag" : "🇮🇹", "presentation" : "", "speakers" : ["paolo_galeone"], "tags" : ["MachineLearning"], "title" : "What's new in Tensorflow 2.0", "videoId" : ""}}
+{
+  "ar_foundation_merging_ar_platforms": {
+    "complexity": "Intermediate",
+    "description": "Nowadays developing mobile augmented reality software can implicate having to create two separated projects with two different working pipelines; one for Android using ARCore and one for iOS using ARKit.\r\n\r\nAR Foundations, developed by Unity3D, adds multi-platform functionalities and utilities so developers can work with both devices using only one common set of API.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "erik_minarini",
+      "matteo_baraldi"
+    ],
+    "tags": [
+      "AugmentedReality",
+      "Unity3D"
+    ],
+    "title": "AR Foundation: Merging AR Platforms",
+    "videoId": ""
+  },
+  "python_parallel_computing": {
+    "complexity": "Intermediate",
+    "description": "Spremi al massimo il tuo processore al 100%!!!\r\nMolte applicazioni non sfruttano le possibilità prestazionali date dai processori multicore.\r\nVedremo come creare software che esegue istruzioni in parallelo senza ridurre l'eleganza del codice. Verranno anche spiegate semplici buone pratiche derivate dalla teoria della concorrenza per evitare possibili errori.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "federico_bertani"
+    ],
+    "tags": [],
+    "title": "Python Parallel Computing",
+    "videoId": ""
+  },
+  "continuous_integration_and_delivery_on_google_cloud": {
+    "complexity": "Beginner",
+    "description": "L\u2019esigenza di rilasciare codice sempre più velocemente e le le tecnologie cloud-native come i container hanno favorito l\u2019approccio a microservizi. Questo ha comportato una maggior attenzione verso l\u2019automazione dell\u2019intera catena di rilascio del software. Questo speech mira ad affrontare questa necessità con gli strumenti e i servizi della Google Cloud Platform, presentando un caso d\u2019uso in produzione in Injenia.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "fausto_fusaro"
+    ],
+    "tags": [
+      "GoogleCloud"
+    ],
+    "title": "Continuous Integration and Delivery on Google Cloud",
+    "videoId": ""
+  },
+  "solid_principles_in_practice_the_clean_architecture": {
+    "complexity": "Intermediate",
+    "description": "La clean architecture è stata formalizzata in un post da Robert C. Martin nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "https://www.slideshare.net/fabio_collini/solid-principles-in-practice-the-clean-architecture",
+    "speakers": [
+      "fabio_collini"
+    ],
+    "tags": [
+      "Android",
+      "Kotlin"
+    ],
+    "title": "SOLID principles in practice: the clean architecture",
+    "videoId": ""
+  },
+  "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto": {
+    "complexity": "Beginner",
+    "description": "Durante il workshop verrà fatta una breve panoramica sui principi di funzionamento di Ansible, verrà mostrata la struttura di un progetto (playbook, ruoli, templates, etc.) e verranno fatti esempi pratici per comprendere il funzionamento di Ansible su ambienti di sviluppo in locale e in remoto (i.e. Google Cloud Platform).\r\n\r\nRivolto a chiunque voglia conoscere Ansible (developers, devops, etc.).\r\n\r\nSono richiesti Vagrant (https://www.vagrantup.com/downloads.html) e virtualbox già installati sui propri portatili.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "giovanni_albero"
+    ],
+    "tags": [
+      "OpenSource",
+      "Web",
+      "GoogleCloud"
+    ],
+    "title": "Ansible - scrivere un playbook, gestire macchine virtuali in locale e in remoto.",
+    "videoId": ""
+  },
+  "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente": {
+    "complexity": "Intermediate",
+    "description": "Spesso ci troviamo a svolgere attività ripetitive che potrebbero essere compiute automaticamente o facilitate da una Chrome extension. Ma come crearla? Affronteremo assieme la realizzazione e il mantenimento di questi utili software.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "giovanni_albero"
+    ],
+    "tags": [
+      "Web",
+      "OpenSource"
+    ],
+    "title": "Chrome extension: come svilupparle e mantenerle in modo efficiente",
+    "videoId": ""
+  },
+  "google_cloud_101_architecture_and_orchestration": {
+    "complexity": "Beginner",
+    "description": "An hour dedicated to a quick tour of the Google Cloud Platform: its structure, its complexity, its tools, architectures and fundamentals. ",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "francesco_baldassarri"
+    ],
+    "tags": [
+      "GoogleCloud"
+    ],
+    "title": "Google Cloud: 101: Architecture and Orchestration",
+    "videoId": ""
+  },
+  "android_jet_navigation": {
+    "complexity": "Intermediate",
+    "description": "Change the way you navigate inside your Android mobile app. Let's see together how the new navigation architecture component can simplify the implementation of navigation in your app.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "matteo_bonifazi"
+    ],
+    "tags": [
+      "Android"
+    ],
+    "title": "Android JET Navigation",
+    "videoId": ""
+  },
+  "unintroduzione_al_tdd": {
+    "complexity": "Beginner",
+    "description": "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "mario_grimaldi"
+    ],
+    "tags": [
+      "Kotlin"
+    ],
+    "title": "Un'introduzione al TDD",
+    "videoId": ""
+  },
+  "event_loop_tales_on_io_bound_nodejs_applications": {
+    "complexity": "Advanced",
+    "description": "At brumbrum.it we have a zoo of microservices, interaction between them is obviously carried out through REST APIs. Our www microservice, aka frontend, is an isomorphic/universal JavaScript application bounded between users and the zoo, lots of 1:n HTTP requests there. Taming this type of Node.js application in production to survive traffic spikes and other wild behaviors brought us to deeply understand Node.js non-blocking model: it's too easy to react to problems with CDN and infamous memory/thread allocations. Node.js non-blocking model comes with simplicity in mind. In many cases this simplicity allows you to build apps quickly. But when you reach the edge, simplicity means responsibility. Let's dive in!",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "alessandro_aglietti"
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "Event loop tales on I/O bound Node.js applications",
+    "videoId": ""
+  },
+  "ethereum_blockchain_development": {
+    "complexity": "Intermediate",
+    "description": "Durante lo svolgimento del corso mostreremo i concetti e gli strumenti necessari a comprendere come interagire con la blockchain Ethereum e come  contestualizzarla all'interno dell'ecosistema web tradizionale.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "giovanni_bruno"
+    ],
+    "tags": [
+      "Blockchain"
+    ],
+    "title": "Ethereum Blockchain development",
+    "videoId": ""
+  },
+  "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react": {
+    "complexity": "Intermediate",
+    "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "michel_murabito"
+    ],
+    "tags": [
+      "Firebase",
+      "Web"
+    ],
+    "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+    "videoId": ""
+  },
+  "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain": {
+    "complexity": "Advanced",
+    "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "https://docs.google.com/presentation/d/1FRi6jyuBpqkLt2snFiao1lMSTxAiRZ_5qMUJf3m8_jw/edit?usp=drivesdk",
+    "speakers": [
+      "alessandro_aglietti"
+    ],
+    "tags": [
+      "Blockchain",
+      "Docker"
+    ],
+    "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+    "videoId": ""
+  },
+  "reasonml_enjoy_front-end_programming_again": {
+    "complexity": "Intermediate",
+    "description": "Dopo aver usato linguaggi di programmazione moderni (es: Rust, Kotlin) è difficile tornare a Javascript. Il suo comportamento bizzarro ed il weak dynamic typing hanno portato alla nascita di un grande numero di tool o interi nuovi linguaggi per conviverci. ReasonML è un linguaggio funzionale che permette l'uso di astrazioni moderne senza sacrificare il pragmatismo di Javascript.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "alberto_nicoletti"
+    ],
+    "tags": [
+      "Web"
+    ],
+    "title": "ReasonML: enjoy front-end programming again",
+    "videoId": ""
+  },
+  "google_cloud_data_ml_and_ai_going_serveless": {
+    "complexity": "Intermediate",
+    "description": "First touch with data collection and analysis using the Google Cloud Platform. One-hour overview of Google Cloud Functions, Auto ML, pre-trained models and other useful tools. ",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "francesco_baldassarri"
+    ],
+    "tags": [
+      "BigData",
+      "GoogleCloud",
+      "MachineLearning"
+    ],
+    "title": "Google Cloud: Data, ML and AI going serveless",
+    "videoId": ""
+  },
+  "whats_new_in_tensorflow_20": {
+    "complexity": "Advanced",
+    "description": "La versione 2.0 di Tensorflow porterà molti cambiamenti al più popolare framework di machine learning: la maggior parte di essi con lo scopo di rendere il framework più accessibile ai novizi altri puramente architetturali. \r\nIn questo talk saranno presentate le maggiori differenze (note al momento) tra la versione 1.x e la versione 2.x evidenziando i cambiamenti necessari non solo alle codebase esistenti, ma anche al mindset dell'utilizzatore.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "paolo_galeone"
+    ],
+    "tags": [
+      "MachineLearning"
+    ],
+    "title": "What's new in Tensorflow 2.0",
+    "videoId": ""
+  }
+}
