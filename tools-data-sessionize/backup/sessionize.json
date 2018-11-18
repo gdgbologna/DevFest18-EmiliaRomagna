@@ -1,0 +1,1437 @@
+{
+  "sessions": [
+    {
+      "id": "71224",
+      "title": "Blockchain, smart contract, DAO: tra falsi miti e reali opportunità di business",
+      "description": "Dalla prima pubblicazione del paper di Satoshi Nakamoto ‘A peer to peer electronic cash system’ sono passati dieci anni. In questo periodo il bitcoin è entrato prepotentemente nella nostra quotidianità superando il pregiudizio di essere un mezzo di pagamento per operazioni illecite. Termini come criptovaluta, blockchain, smart contract, ICO, sono sempre più spesso utilizzati, a volte impropriamente. In questo speech ho l’obiettivo di spiegare da un lato cosa ci sta dietro alle criptovaute, agli smart contract, raccontando gli utilizzi presenti e futuri, evidenziando le carenze dell’aspetto normativo e i paradossi ideologici che hanno creato Bitcoin,  descrivendo quindi gli smart contract, per evidenziare i ’pregi’ e ‘difetti’ di questo nuovo affascinante modo di fare business.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c84b91ac-cd22-4bd2-a40f-d4df9be9cd8c"
+      ],
+      "categoryItems": [
+        13552,
+        13654,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "71724",
+      "title": "Android Functional Validation With Arrow",
+      "description": "An introduction to some data types of Arrow:\r\n\r\nwe will use them to validate a form in an Android application.\r\n",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "7d802029-c470-42b9-a586-2c437c7cde4d"
+      ],
+      "categoryItems": [
+        13552,
+        13579,
+        13658,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "71835",
+      "title": "Come scegliere un progetto nella jungla di Github?",
+      "description": "Oggigiorno, soprattutto nel mondo del web development, le librerie e i framework open source sono estremamente numerosi. Di fronte a tale abbondanza, il rischio di incappare in software di bassa qualità è alto. Partendo dalle esperienze della vita lavorativa e passando attraverso gli open data di GitHub disponibili su Google BigQuery cercherò di darvi qualche consiglio su come evitare le fregature.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "32fb1f43-2a5c-4084-849d-749c5dcb1635"
+      ],
+      "categoryItems": [
+        13552,
+        13647,
+        13580,
+        13650,
+        13655,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72071",
+      "title": "Library development: open source your ideas!",
+      "description": "Have you ever thought that your idea could help other developers? Join the magic world of open source! In this talk we are going to share some tips and the secrets to become an open source master. Of course some practical examples based on our experience cannot miss.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "aeddc24f-0e47-4934-ad76-2de7a9dc9fac"
+      ],
+      "categoryItems": [
+        13553,
+        13650,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72279",
+      "title": "SOLID principles in practice: the clean architecture",
+      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martin nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
+      ],
+      "categoryItems": [
+        13553,
+        13579,
+        13658,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72508",
+      "title": "ReasonML: enjoy front-end programming again",
+      "description": "Dopo aver usato linguaggi di programmazione moderni (es: Rust, Kotlin) è difficile tornare a Javascript. Il suo comportamento bizzarro ed il weak dynamic typing hanno portato alla nascita di un grande numero di tool o interi nuovi linguaggi per conviverci. ReasonML è un linguaggio funzionale che permette l'uso di astrazioni moderne senza sacrificare il pragmatismo di Javascript.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "df0f812c-a183-468b-9d22-b27d54cfe7c2"
+      ],
+      "categoryItems": [
+        13553,
+        13580,
+        13941
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72696",
+      "title": "Android JET Navigation",
+      "description": "Change the way you navigate inside your Android mobile app. Let's see together how the new navigation architecture component can simplify the implementation of navigation in your app.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "fbf85fc3-eaaf-4d81-9081-3f4fbb3c7f9b"
+      ],
+      "categoryItems": [
+        13553,
+        13579,
+        13941
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72701",
+      "title": "Kotlin Coroutines in practice",
+      "description": "Le coroutines permettono di scrivere codice asincrono in modo semplice, non c'è bisogno di gestire callback o di cambiare il modo di scrivere il codice. A partire da Kotlin 1.3 le coroutines sono stabili e possono essere usate in Kotlin (sia su progetti Android che negli altri contesti in cui Kotlin è utilizzabile).\r\nIn questo talk vedremo, con molti esempi pratici, come utilizzare le coroutines in una applicazione Android per gestire i casi più comuni di codice asincrono (in particolare le chiamate http con Retrofit).",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
+      ],
+      "categoryItems": [
+        13553,
+        13658,
+        13579,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72809",
+      "title": "Chrome extension: come svilupparle e mantenerle in modo efficiente",
+      "description": "Spesso ci troviamo a svolgere attività ripetitive che potrebbero essere compiute automaticamente o facilitate da una Chrome extension. Ma come crearla? Affronteremo assieme la realizzazione e il mantenimento di questi utili software.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8339d26-8047-4955-bf41-43c49d473e00"
+      ],
+      "categoryItems": [
+        13553,
+        13580,
+        13650,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72810",
+      "title": "Ansible - scrivere un playbook, gestire macchine virtuali in locale e in remoto.",
+      "description": "Durante il workshop verrà fatta una breve panoramica sui principi di funzionamento di Ansible, verrà mostrata la struttura di un progetto (playbook, ruoli, templates, etc.) e verranno fatti esempi pratici per comprendere il funzionamento di Ansible su ambienti di sviluppo in locale e in remoto (i.e. Google Cloud Platform).\r\n\r\nRivolto a chiunque voglia conoscere Ansible (developers, devops, etc.).\r\n\r\nSono richiesti Vagrant (https://www.vagrantup.com/downloads.html) e virtualbox già installati sui propri portatili.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "c8339d26-8047-4955-bf41-43c49d473e00"
+      ],
+      "categoryItems": [
+        13552,
+        13650,
+        13580,
+        13655,
+        13941
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "72986",
+      "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
+      "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "31513932-a9e7-4097-9ee9-8d886a54b63e"
+      ],
+      "categoryItems": [
+        13553,
+        13575,
+        13580,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73151",
+      "title": "Digital records evidence - Oracles and the Bitcoin blockchain",
+      "description": "Blockchain is like sex and teenagers: everyone talks about it but no one address it correctly.\r\nOne of the main issues is the trust and authenticity of the digital records that we write and read from the DLT.\r\nOracles are definitely one the solutions in the scene, let's see how they works and what they guarantee.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
+      ],
+      "categoryItems": [
+        13554,
+        13654,
+        13661,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73152",
+      "title": "Google Cloud: 101: Architecture and Orchestration",
+      "description": "An hour dedicated to a quick tour of the Google Cloud Platform: its structure, its complexity, its tools, architectures and fundamentals. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cdbd4207-9f45-4893-8c7f-c8f5629dd7ac"
+      ],
+      "categoryItems": [
+        13552,
+        13655,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73153",
+      "title": "Event loop tales on I/O bound Node.js applications",
+      "description": "At brumbrum.it we have a zoo of microservices, interaction between them is obviously carried out through REST APIs. Our www microservice, aka frontend, is an isomorphic/universal JavaScript application bounded between users and the zoo, lots of 1:n HTTP requests there. Taming this type of Node.js application in production to survive traffic spikes and other wild behaviors brought us to deeply understand Node.js non-blocking model: it's too easy to react to problems with CDN and infamous memory/thread allocations. Node.js non-blocking model comes with simplicity in mind. In many cases this simplicity allows you to build apps quickly. But when you reach the edge, simplicity means responsibility. Let's dive in!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "b908d4a9-f8d5-44db-a785-f608885eff46"
+      ],
+      "categoryItems": [
+        13554,
+        13580,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73154",
+      "title": "Google Cloud: Data, ML and AI going serveless",
+      "description": "First touch with data collection and analysis using the Google Cloud Platform. One-hour overview of Google Cloud Functions, Auto ML, pre-trained models and other useful tools. ",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cdbd4207-9f45-4893-8c7f-c8f5629dd7ac"
+      ],
+      "categoryItems": [
+        13553,
+        13647,
+        13655,
+        13653,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73176",
+      "title": "Networking in GCP: Defining and Implementing Networks",
+      "description": "Google Cloud Platform and networking: it sounds easy, no? But lets have a deep look exploring GCP networking technologies, such as Google Virtual Private Cloud (VPC) networks, subnets and firewalls. Also covering access control to networks, sharing networks and load balancing.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "cdbd4207-9f45-4893-8c7f-c8f5629dd7ac"
+      ],
+      "categoryItems": [
+        13553,
+        13655,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73202",
+      "title": "What's new in Tensorflow 2.0",
+      "description": "La versione 2.0 di Tensorflow porterà molti cambiamenti al più popolare framework di machine learning: la maggior parte di essi con lo scopo di rendere il framework più accessibile ai novizi altri puramente architetturali. \r\nIn questo talk saranno presentate le maggiori differenze (note al momento) tra la versione 1.x e la versione 2.x evidenziando i cambiamenti necessari non solo alle codebase esistenti, ma anche al mindset dell'utilizzatore.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "a567f3e6-3f7a-4932-9095-dc0fb061f670"
+      ],
+      "categoryItems": [
+        13554,
+        13653,
+        13941
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73324",
+      "title": "Fare vivere il passato con le tecnologie del futuro",
+      "description": "La Macchina del Tempo è un'esperienza di Realtà Virtuale che permette ai visitatori di entrare in scenari storici o turistici perfettamente ricostruite, facendo provare l'emozione di un viaggio nel tempo e nello spazio.\r\nE' attualmente ospitata a Bologna presso iil Museo Realtà Virtuale ed è già stata visitata da oltre 20.000 persone.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "09eb8615-bb6f-4943-bea1-febb0c944209",
+        "4b930ce3-d723-4b35-9b8f-662760339e2c"
+      ],
+      "categoryItems": [
+        13552,
+        13662,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73585",
+      "title": "Python Parallel Computing",
+      "description": "Spremi al massimo il tuo processore al 100%!!!\r\nMolte applicazioni non sfruttano le possibilità prestazionali date dai processori multicore.\r\nVedremo come creare software che esegue istruzioni in parallelo senza ridurre l'eleganza del codice. Verranno anche spiegate semplici buone pratiche derivate dalla teoria della concorrenza per evitare possibili errori.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2a179fff-5124-4021-a340-34eb2a040906"
+      ],
+      "categoryItems": [
+        13553,
+        15058
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73768",
+      "title": "AR Foundation: Merging AR Platforms",
+      "description": "Nowadays developing mobile augmented reality software can implicate having to create two separated projects with two different working pipelines; one for Android using ARCore and one for iOS using ARKit.\r\n\r\nAR Foundations, developed by Unity3D, adds multi-platform functionalities and utilities so developers can work with both devices using only one common set of API.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "195be411-06cc-4e15-93b4-e6da4a7f50e6",
+        "b76deef5-9e96-4ad1-8021-573fd38a8f5e"
+      ],
+      "categoryItems": [
+        13553,
+        13663,
+        16099,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73806",
+      "title": "WEB 3.0 - welcome to the decentralized future",
+      "description": "Storia ed introduzione al mondo delle dAPP",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "530af086-d037-44d3-b820-2d253032650d"
+      ],
+      "categoryItems": [
+        13552,
+        13654,
+        13941,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73809",
+      "title": "Ethereum Blockchain development",
+      "description": "Durante lo svolgimento del corso mostreremo i concetti e gli strumenti necessari a comprendere come interagire con la blockchain Ethereum e come  contestualizzarla all'interno dell'ecosistema web tradizionale.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "18be8204-91a8-460d-bcb1-4602149f5230"
+      ],
+      "categoryItems": [
+        13553,
+        13654,
+        15058,
+        16046
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73813",
+      "title": "Continuous Integration and Delivery on Google Cloud",
+      "description": "L’esigenza di rilasciare codice sempre più velocemente e le le tecnologie cloud-native come i container hanno favorito l’approccio a microservizi. Questo ha comportato una maggior attenzione verso l’automazione dell’intera catena di rilascio del software. Questo speech mira ad affrontare questa necessità con gli strumenti e i servizi della Google Cloud Platform, presentando un caso d’uso in produzione in Injenia.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "f9e894d8-8562-4b19-98b6-4737a604c1b1"
+      ],
+      "categoryItems": [
+        13552,
+        13655,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73819",
+      "title": "BigData? Make it real with Google Cloud Data & AI Platform",
+      "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "16a298f1-c18a-40ee-a2e4-863fb7ef094e"
+      ],
+      "categoryItems": [
+        13553,
+        13647,
+        13653,
+        13655,
+        13669,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73822",
+      "title": "Introduzione al W3C Web of Things",
+      "description": "Negli ultimi anni l'ente di stardardizzazione W3C si è impegnato nel creare una definizione comune di Web Thing e di come questa possa comunicare con il mondo esterno. Questo breve talk vuole introdurre le innovazioni introdotte e dare gli strumenti necessari per poter iniziare da subito a sivllupare applicazione basate su WoT.",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "74379c6e-59f7-41cd-a67b-d615c4f59717"
+      ],
+      "categoryItems": [
+        13552,
+        13646,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    },
+    {
+      "id": "73824",
+      "title": "Un'introduzione al TDD",
+      "description": "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!",
+      "startsAt": null,
+      "endsAt": null,
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "498e97ec-0edc-4c3b-9c5e-5ba04e5d06a0"
+      ],
+      "categoryItems": [
+        13552,
+        13658,
+        15058,
+        16046
+      ],
+      "questionAnswers": [],
+      "roomId": null
+    }
+  ],
+  "speakers": [
+    {
+      "id": "c84b91ac-cd22-4bd2-a40f-d4df9be9cd8c",
+      "firstName": "alberto",
+      "lastName": "ferrari",
+      "bio": "Sono Alberto Ferrari, sono un imprenditore, un ingegnere informatico e sono innamorato della Blockchain oltre ad esserne il primo critico.\r\nMi considero un tecnico e un appassionato delle architetture software distribuite che ho studiato durante il mio percorso accademico e continuo a studiare e usare durante la mia esperienza di imprenditore. \r\nHo iniziato a studiare Bitcoin e la Blockchain qualche anno fa seguendo l’evoluzione del concetto stesso di blockchain capace di riscrivere le regole che permettono di eseguire passaggio di valore (tecnicamente diritto di proprietà di valore) fino ad arrivare con le blockchain di seconda generazione a poter riscrivere, attraverso gli smart contract, le regole che governano aspetti civili, sociali oltre a quelli che regolano il business (B2B). Come azienda stiamo portando avanti progetti che vogliono usare blockchain ‘permissioned’ come Corda, Hiperledger e Quorum. Attualmente collaboro con professionisti del diritto tributario facendo convegni nel nord Italia, questa collaborazione ha prodotto anche alcuni articoli pubblicati sul sole24ore.",
+      "tagLine": "CEO a Thesis srl",
+      "profilePicture": "https://sessionize.com/image?f=22f973e8533e6c266f81839d37752eae,400,400,True,False,ac-cd22-4bd2-a40f-d4df9be9cd8c.8c88683d-d81c-46c4-908b-fb05b87b7398.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/alberto-ferrari-thesis/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.thesis-srl.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        71224
+      ],
+      "fullName": "alberto ferrari"
+    },
+    {
+      "id": "df0f812c-a183-468b-9d22-b27d54cfe7c2",
+      "firstName": "Alberto",
+      "lastName": "Nicoletti",
+      "bio": "Appassionato di tecnologie web e linguaggi di programmazione. Divoratore di serie TV nel tempo libero. Attualmente frequenta il corso di laurea magistrale in informatica a Bologna e lavora per Braimage ad un software per ridurre il tempo di diagnosi della demenza.",
+      "tagLine": "Frontend Developer - Braimage",
+      "profilePicture": "https://sessionize.com/image?f=d35f96549fc22255b272f1acc0d40c1c,400,400,True,False,c124b748-b7f8-49aa-95c4-829bc5f3a250.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/illbexyz",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/albertonicoletti/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://illbe.xyz",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        72508
+      ],
+      "fullName": "Alberto Nicoletti"
+    },
+    {
+      "id": "b908d4a9-f8d5-44db-a785-f608885eff46",
+      "firstName": "Alessandro",
+      "lastName": "Aglietti",
+      "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
+      "tagLine": "brumbrum.it / aqquadro.it",
+      "profilePicture": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/creepsound",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "Blog",
+          "url": "https://tail.aqquadro.it",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.brumbrum.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73151,
+        73153
+      ],
+      "fullName": "Alessandro Aglietti"
+    },
+    {
+      "id": "16a298f1-c18a-40ee-a2e4-863fb7ef094e",
+      "firstName": "Alessandro",
+      "lastName": "Chiarini",
+      "bio": "I'm a sort of techie  with huge curiosity in technology and interest in its implications in business.  I am responsible of two teams who are bringing innovation leveraging on Google Cloud Platform. In my spare time I am super-busy with my two little girls. ",
+      "tagLine": "Head of Innovation & Cloud Computing",
+      "profilePicture": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/achiarini",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/achiarini",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.injenia.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73819
+      ],
+      "fullName": "Alessandro Chiarini"
+    },
+    {
+      "id": "74379c6e-59f7-41cd-a67b-d615c4f59717",
+      "firstName": "Cristiano",
+      "lastName": "Aguzzi",
+      "bio": "Durante il periodo universitario si impegna in vari progetti:\r\n- Partecipa a JmonkeyEngine Summer of Code ( spin off della più famosa Google Summer of Code)\r\n- Entra a far parte del programma Microsoft Student Partner nel quale ha l'oppurtunità di conoscere e divulgare le soluzioni Microsoft cloud e mobile\r\n- Mantiene il codice e partecipa allo svilluppo di un progetto java su github del nome NiftyGui.\r\n- Sviluppa applicazioni mobili in collaborazione con start up Bolognesi\r\n- Crea vari progetti IoT per corsi universitari ( robot auto pilotati, crea un DSL per la programmazione di robot, implementa un algoritmo di stereo matching con OpenCv...)\r\n \r\nLaureato in Ingegneria Informatica all'università di Bologna nel 2017 cum laude, si inscrive al corso di dottorato in Structural&Enviromental Health Monitoring and Managment (SEHM^2). Prosegue gli studi sulle tecnologie semantiche in particolare quelle basate sul paradigma Web of Things per poi applicarle alla construzione di una piattaforma software per il montioraggio delle strutture estensibile e a basso costo di sviluppo.",
+      "tagLine": "Stuendente PhD, Structural Health Monitoring (temi di Computer Science), Università di Bologna",
+      "profilePicture": "https://sessionize.com/image?f=db956fd990d794c5be4e8f55433b167c,400,400,True,False,6e-59f7-41cd-a67b-d615c4f59717.2f7d02ca-3cad-49b5-8317-3cd15fa2e741.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/relucri",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/cristiano-aguzzi-048a0359",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.unibo.it/sitoweb/cristiano.aguzzi/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Blog",
+          "url": "https://github.com/relu91",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        73822
+      ],
+      "fullName": "Cristiano Aguzzi"
+    },
+    {
+      "id": "7d802029-c470-42b9-a586-2c437c7cde4d",
+      "firstName": "Daniele",
+      "lastName": "Campogiani",
+      "bio": "Fascinated by the world of mobile computing, I hope to become a reference point in the field in the future.\r\n\r\nI like to engage in challenging projects with other people in order to question the choices to be made, maintaining this way a high level of quality.",
+      "tagLine": "Android Developer at Yoox Net-A-Porter",
+      "profilePicture": "https://sessionize.com/image?f=77e91a3da6de8714ec65a766c3b20b10,400,400,True,False,088dfc8e-f4f0-476d-b625-fd2f7f355f22.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/dcampogiani",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/danielecampogiani/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://danielecampogiani.com/blog/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.yoox.com/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        71724
+      ],
+      "fullName": "Daniele Campogiani"
+    },
+    {
+      "id": "530af086-d037-44d3-b820-2d253032650d",
+      "firstName": "Daniele",
+      "lastName": "Donelli",
+      "bio": "Co-Founder e presidente di Soluzioni Futura.\r\nLa società si occupa di cloud native web app, blockchain e dAPP.",
+      "tagLine": "Direttore operativo presso Soluzioni Futura",
+      "profilePicture": "https://sessionize.com/image?f=8ca1b00605e0c89d6c9130e0677853ba,400,400,True,False,86-d037-44d3-b820-2d253032650d.998d810e-0612-4ce0-a453-47d643390542.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/daniele-donelli",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.soluzionifutura.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73806
+      ],
+      "fullName": "Daniele Donelli"
+    },
+    {
+      "id": "195be411-06cc-4e15-93b4-e6da4a7f50e6",
+      "firstName": "Erik",
+      "lastName": "Minarini",
+      "bio": "Hi. I'm Erik, nice to meet you.\r\nI'm passionate about everything is related to IT.\r\nIn particular, I like graphic and 3D development.\r\nI've always loved videogames, since childhood.\r\nToday I'm a Unity Developer and this allows me to create both applications and games.\r\nI've founded ThoughNutToCrack to share knowledge and passion with everyone.",
+      "tagLine": "Unity Developer @ ToughNutToCrack",
+      "profilePicture": "https://sessionize.com/image?f=dc1517e619fa8ac506ace527fdd0bc9a,400,400,True,False,11-06cc-4e15-93b4-e6da4a7f50e6.52452854-e14e-4411-b4a4-eb5aab23be15.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/doJester13",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/erik-minarini-228945b4",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://toughnuttocrack.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73768
+      ],
+      "fullName": "Erik Minarini"
+    },
+    {
+      "id": "2e93a5e7-2037-4d7d-a548-7512f9c14960",
+      "firstName": "Fabio",
+      "lastName": "Collini",
+      "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
+      "tagLine": "Android Engineer at New York Times",
+      "profilePicture": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,True,False,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/fabioCollini",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fabiocollini",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "http://codingjam.it/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://codingjam.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        72279,
+        72701
+      ],
+      "fullName": "Fabio Collini"
+    },
+    {
+      "id": "f9e894d8-8562-4b19-98b6-4737a604c1b1",
+      "firstName": "Fausto",
+      "lastName": "Fusaro",
+      "bio": "I love Cloud technologies and DIY labs or projects. I work for a beautiful Google Cloud Premier Partner in Italy, I'm in charge of analyse, design and build IaaS architectures based on Google Cloud Platform, Google Maps Platform and Apigee.",
+      "tagLine": "Google Cloud Architect at Injenia Srl",
+      "profilePicture": "https://sessionize.com/image?f=fc64610f23d0d0f1bf2f5d68d8472422,400,400,True,False,34008299-a656-4e60-9748-491dea4e8663.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/faustory",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/faustof/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.injenia.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73813
+      ],
+      "fullName": "Fausto Fusaro"
+    },
+    {
+      "id": "2a179fff-5124-4021-a340-34eb2a040906",
+      "firstName": "Federico",
+      "lastName": "Bertani",
+      "bio": "Abito e studio a Bologna ma vengo da Reggio Emilia. Sono laureato in informatica ma frequento il dipartimento di Fisica. Mi piacciono tante cose, forse troppe.",
+      "tagLine": "Computer Science @ University of Bologna",
+      "profilePicture": "https://sessionize.com/image?f=bbb51e841b1da553107b8d291ab1f4ba,400,400,True,False,d5d2b958-b3b2-401a-ba2f-466dbac24959.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/BertaniFederico",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/federicobertani/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        73585
+      ],
+      "fullName": "Federico Bertani"
+    },
+    {
+      "id": "cdbd4207-9f45-4893-8c7f-c8f5629dd7ac",
+      "firstName": "Francesco",
+      "lastName": "Baldassarri",
+      "bio": "Proud Geek and Nerd. Developer Relations and Community Manager with one decade experience. His technical interests cover Cloud Architectures and Orchestration, Retro-Computing, Artificial Intelligence Algorithms and Leadership Tips/Tricks.  ",
+      "tagLine": "Google Cloud Community Manager EMEA",
+      "profilePicture": "https://sessionize.com/image?f=86a612e5dc93e248b6c92b59da291c1c,400,400,True,False,4ba10955-b507-40aa-a73f-9fae6ce5242d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/francesco_1985",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/fbaldassarri/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://cloud.google.com",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73152,
+        73154,
+        73176
+      ],
+      "fullName": "Francesco Baldassarri"
+    },
+    {
+      "id": "c8339d26-8047-4955-bf41-43c49d473e00",
+      "firstName": "Giovanni",
+      "lastName": "Albero",
+      "bio": "Co-Founder/CTO di SMarT e Full-stack developer presso Reallyzation&R-Everse.\r\nNel 2011 ho collaborato con il ministero della salute, attraverso il GOIRC per lo sviluppo di una soluzione software dedicata. Negli ultimi anni ho svolto attività di consulenza realizzando soluzioni web e software ad-hoc per la piccola e media impresa.\r\n\r\n\r\nContributor su Github (Symfony, FosElasticaBundle, DoctrinePHPCRBundle, Elastica, ecc.)",
+      "tagLine": "Co-Founder/CTO@SMarT Strategy Marketing Technology S.r.l.",
+      "profilePicture": "https://sessionize.com/image?f=f328ee1510b0fe89c0b34b3502ce1f27,400,400,True,False,26-8047-4955-bf41-43c49d473e00.42159c24-af60-4a71-86a8-62e8cbe70f65.png",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/albero92",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/giovanni-albero-bba46564/",
+          "linkType": "LinkedIn"
+        }
+      ],
+      "sessions": [
+        72809,
+        72810
+      ],
+      "fullName": "Giovanni Albero"
+    },
+    {
+      "id": "18be8204-91a8-460d-bcb1-4602149f5230",
+      "firstName": "Giovanni",
+      "lastName": "Bruno",
+      "bio": "CTO and Senior Dev in Soluzioni Futura",
+      "tagLine": "CTO and Senior Dev in Soluzioni Futura",
+      "profilePicture": "https://sessionize.com/image?f=7a2d552ad6e55e29f4172d44e3629e8a,400,400,True,False,8ecddda8-3b17-4d92-a2e0-10594c27a50f.jpg",
+      "isTopSpeaker": false,
+      "links": [],
+      "sessions": [
+        73809
+      ],
+      "fullName": "Giovanni Bruno"
+    },
+    {
+      "id": "32fb1f43-2a5c-4084-849d-749c5dcb1635",
+      "firstName": "Lorenzo",
+      "lastName": "Bertacchi",
+      "bio": "Sono Lorenzo Bertacchi, classe 1993, oggi sono un Fullstack Web Developer e team leader in Kettydo+, una digital agency nella quale nel corso degli anni ho lavorato su diversi progetti per clienti come: Ducati Motor Holding, UNHCR, AC Milan, Barilla e da 3 anni a questa parte sono responsabile tecnico per i progetti legati al mondo Barilla.\r\nSono un tech enthusiast amo a 360° il mondo della tecnologia dall'elettronica di consumo al software e questo per me è prima una passione e poi un lavoro. Le mie altre passioni sono il calcio e i Lego tramite le quali esco dal mondo digitale e torno un po bambino.",
+      "tagLine": "Fullstack Web Developer in Kettydo+",
+      "profilePicture": "https://sessionize.com/image?f=30812a2f6ba06fc16bf7dbbd3111870b,400,400,True,False,43-2a5c-4084-849d-749c5dcb1635.e587f7a7-6c36-4ebd-95e4-54ad8dd4c6ba.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/JBerta93",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/lorenzo-bertacchi-ab224a37/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.lorenzobertacchi.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        71835
+      ],
+      "fullName": "Lorenzo Bertacchi"
+    },
+    {
+      "id": "aeddc24f-0e47-4934-ad76-2de7a9dc9fac",
+      "firstName": "Marco",
+      "lastName": "Gomiero",
+      "bio": "I am a Computer Engineer, currently working as Software Engineer at Uniwhere. In the (very few) free time I organize events for the Google Developer Group Venezia and I write code",
+      "tagLine": "Software Engineer @ Uniwhere",
+      "profilePicture": "https://sessionize.com/image?f=ce57f169c6921f306c9bf878c10d3fce,400,400,True,False,f83af033-4aba-4aa4-a847-de5117664f9f.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/marcoGomier",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/marco-gomiero-a80857ab/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.uniwhere.com/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@marcogomiero",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        72071
+      ],
+      "fullName": "Marco Gomiero"
+    },
+    {
+      "id": "498e97ec-0edc-4c3b-9c5e-5ba04e5d06a0",
+      "firstName": "Mario",
+      "lastName": "Grimaldi",
+      "bio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili e sono fortunato poiché il mio lavoro è anche una delle mie più grandi passioni.",
+      "tagLine": "Passionate and nerdy Application Developer Consultant @ Thoughtworks",
+      "profilePicture": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mariogrimaldi89",
+          "linkType": "Twitter"
+        }
+      ],
+      "sessions": [
+        73824
+      ],
+      "fullName": "Mario Grimaldi"
+    },
+    {
+      "id": "4b930ce3-d723-4b35-9b8f-662760339e2c",
+      "firstName": "Mario Alvise",
+      "lastName": "Di Bernardo",
+      "bio": "Mario inizia ad avvicinarsi all'Informatica attratto dal potenziale espressivo della programmazione, vedendo in essa un mezzo per esprimere la creatività attraverso la logica.\r\nDurante gli studi a Catania ha modo di avvicinarsi alla Grafica 3D, al Game Design e alla programmazione di videogiochi, passioni che continuerà ad approfondire per conto suo sino al suo primo lavoro nel settore: iniziano così due anni intensi con i Funky Bots, startup che lo porterà a girare il mondo e sperimentare le più disparate tecnologie. Dal 2017 si occupa di esperienze museali in Realtà Virtuale per La Macchina del Tempo a Bologna.",
+      "tagLine": "Lead Unity Developer, 3D Generalist, R&D at La Macchina del Tempo",
+      "profilePicture": "https://sessionize.com/image?f=d4af663d91f7f179589bd72fa874a614,400,400,True,False,e3-d723-4b35-9b8f-662760339e2c.8e53e946-5f62-47cb-a64d-96a2b5257c83.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/madiber",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/madiber",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.lamacchinadeltempo.eu/home",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Personal page",
+          "url": "http://www.madiber.it",
+          "linkType": "Other"
+        }
+      ],
+      "sessions": [
+        73324
+      ],
+      "fullName": "Mario Alvise Di Bernardo"
+    },
+    {
+      "id": "09eb8615-bb6f-4943-bea1-febb0c944209",
+      "firstName": "Massimo",
+      "lastName": "Sinigaglia",
+      "bio": "Nato a Bologna nel 1960, Master in Finanza e Controllo.\r\nHa lavorato come consulente manageriale fino al 2016; cofounder della Macchina del Tempo che realizza esperienza di Realtà Virtuale dal 2017.",
+      "tagLine": "Co-Founder La Macchina del Tempo",
+      "profilePicture": "https://sessionize.com/image?f=640961e9b98e75298f2fe1d695c2f1c1,400,400,True,False,15-bb6f-4943-bea1-febb0c944209.67d78b34-3788-4d76-8de3-dfdeebcd4df7.jpeg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/massimosinigaglia",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.lamacchinadeltempo.eu",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73324
+      ],
+      "fullName": "Massimo Sinigaglia"
+    },
+    {
+      "id": "b76deef5-9e96-4ad1-8021-573fd38a8f5e",
+      "firstName": "Matteo",
+      "lastName": "Baraldi",
+      "bio": "Hello everyone, my name is Matteo.\r\nI love everything that surrounds the development of software, from the programming to the artistic part.\r\nI work as Unity Developer creating apps of all sorts and forms and in my spare time i enjoy developing videogames with my indie team called \"OctolabGames\".\r\nI founded \"ToughNutToCrack(TNTC)\" where i create and share contents about gamedev.",
+      "tagLine": "Unity Developer @ ToughNutToCrack",
+      "profilePicture": "https://sessionize.com/image?f=c978165733fad43923f0f31e3a88f17b,400,400,True,False,f5-9e96-4ad1-8021-573fd38a8f5e.d90cde4d-4041-4ed4-9b63-accd4b35c12f.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/_MatteoBaraldi_",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/matteo-baraldi-51747b103/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://toughnuttocrack.it/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://toughnuttocrack.it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73768
+      ],
+      "fullName": "Matteo Baraldi"
+    },
+    {
+      "id": "fbf85fc3-eaaf-4d81-9081-3f4fbb3c7f9b",
+      "firstName": "Matteo",
+      "lastName": "Bonifazi",
+      "bio": "Android developer with the wisdom to cook a proper dish of pasta around the world. Developing apps and speaking with local communities to spread the Android platform.",
+      "tagLine": "Lead Architect at Sisal",
+      "profilePicture": "https://sessionize.com/image?f=19b6ba1fcd99a1b6457c4d567409ac16,400,400,True,False,a4f805cb-0859-4d0f-be15-8e8ad2511b44.jpg",
+      "isTopSpeaker": true,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/mbonifazi",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mbonifazi/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.sisal.it/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Blog",
+          "url": "https://www.linkedin.com/in/mbonifazi/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        72696
+      ],
+      "fullName": "Matteo Bonifazi"
+    },
+    {
+      "id": "31513932-a9e7-4097-9ee9-8d886a54b63e",
+      "firstName": "Michel",
+      "lastName": "Murabito",
+      "bio": "Web Developer By Day, Superhero Wannabe By Night!",
+      "tagLine": "Developer Senior @Spindox",
+      "profilePicture": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/michelmurabito",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/michel-murabito-b5568845",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Blog",
+          "url": "https://medium.com/@mich.murabito/",
+          "linkType": "Blog"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://www.spindox.it/it/",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        72986
+      ],
+      "fullName": "Michel Murabito"
+    },
+    {
+      "id": "a567f3e6-3f7a-4932-9095-dc0fb061f670",
+      "firstName": "Paolo",
+      "lastName": "Galeone",
+      "bio": "I’m a Computer Engineer that’s always been in love with the IT world. As soon as I started developing\r\nsoftware I understood that the most important part of any system is the data that it collects. So,\r\nI started being interested in the data-world: high-dimensional, structured, unstructured, big and\r\nsmall data and the way to store, manage and analyze them. I focused my struggling on how to\r\nefficiently store and analyze any type of data and I found the Computer Vision domain a good training\r\nbench for a better understating of this world. The willing of understating data brought me to focus\r\non Machine Learning and more specifically on Deep Learning.\r\nI’m a strong Open Source supporter and I work exclusively on Linux systems.",
+      "tagLine": "Head of ML/CV @ ZURU Tech",
+      "profilePicture": "https://sessionize.com/image?f=132a7b20c6082ceefd65c93ba13f70af,400,400,True,False,e6-3f7a-4932-9095-dc0fb061f670.7d49fb69-1a93-4ce3-a22b-4a1267a52a4d.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/paolo_galeone",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/paolo-galeone-6782b311b/",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "https://zuru.tech/",
+          "linkType": "Company_Website"
+        },
+        {
+          "title": "Blog",
+          "url": "https://pgaleone.eu/",
+          "linkType": "Blog"
+        }
+      ],
+      "sessions": [
+        73202
+      ],
+      "fullName": "Paolo Galeone"
+    }
+  ],
+  "questions": [],
+  "categories": [
+    {
+      "id": 2861,
+      "title": "Level",
+      "items": [
+        {
+          "id": 13552,
+          "name": "Introductory and overview",
+          "sort": 1
+        },
+        {
+          "id": 13553,
+          "name": "Intermediate",
+          "sort": 2
+        },
+        {
+          "id": 13554,
+          "name": "Advanced",
+          "sort": 3
+        },
+        {
+          "id": 13555,
+          "name": "Expert",
+          "sort": 4
+        }
+      ],
+      "sort": 1
+    },
+    {
+      "id": 2864,
+      "title": "Tags",
+      "items": [
+        {
+          "id": 13575,
+          "name": "Firebase",
+          "sort": 1
+        },
+        {
+          "id": 13576,
+          "name": "Flutter",
+          "sort": 2
+        },
+        {
+          "id": 13579,
+          "name": "Android",
+          "sort": 3
+        },
+        {
+          "id": 13580,
+          "name": "Web",
+          "sort": 4
+        },
+        {
+          "id": 13646,
+          "name": "IoT",
+          "sort": 5
+        },
+        {
+          "id": 13647,
+          "name": "BigData",
+          "sort": 6
+        },
+        {
+          "id": 13648,
+          "name": "SocialMedia",
+          "sort": 7
+        },
+        {
+          "id": 13649,
+          "name": "Design",
+          "sort": 8
+        },
+        {
+          "id": 13650,
+          "name": "OpenSource",
+          "sort": 9
+        },
+        {
+          "id": 13651,
+          "name": "MobileWeb",
+          "sort": 10
+        },
+        {
+          "id": 13652,
+          "name": "ARCore",
+          "sort": 11
+        },
+        {
+          "id": 13653,
+          "name": "MachineLearning",
+          "sort": 12
+        },
+        {
+          "id": 13654,
+          "name": "Blockchain",
+          "sort": 13
+        },
+        {
+          "id": 13655,
+          "name": "GoogleCloud",
+          "sort": 14
+        },
+        {
+          "id": 13656,
+          "name": "CloudFunctions",
+          "sort": 15
+        },
+        {
+          "id": 13657,
+          "name": "AssistantApp",
+          "sort": 16
+        },
+        {
+          "id": 13658,
+          "name": "Kotlin",
+          "sort": 17
+        },
+        {
+          "id": 13659,
+          "name": "Go",
+          "sort": 18
+        },
+        {
+          "id": 13660,
+          "name": "Kubernetes",
+          "sort": 19
+        },
+        {
+          "id": 13661,
+          "name": "Docker",
+          "sort": 20
+        },
+        {
+          "id": 13662,
+          "name": "VirtualReality",
+          "sort": 21
+        },
+        {
+          "id": 13663,
+          "name": "AugmentedReality",
+          "sort": 22
+        },
+        {
+          "id": 13664,
+          "name": "AndroidThings",
+          "sort": 23
+        },
+        {
+          "id": 13666,
+          "name": "TagProposal",
+          "sort": 24
+        },
+        {
+          "id": 13668,
+          "name": "GoogleLens",
+          "sort": 25
+        },
+        {
+          "id": 13669,
+          "name": "AI",
+          "sort": 26
+        },
+        {
+          "id": 16099,
+          "name": "Unity3D",
+          "sort": 27
+        }
+      ],
+      "sort": 2
+    },
+    {
+      "id": 2934,
+      "title": "Talk Duration",
+      "items": [
+        {
+          "id": 13940,
+          "name": "15 min",
+          "sort": 1
+        },
+        {
+          "id": 13941,
+          "name": "30 min",
+          "sort": 2
+        },
+        {
+          "id": 15058,
+          "name": "45 min",
+          "sort": 3
+        }
+      ],
+      "sort": 3
+    },
+    {
+      "id": 3353,
+      "title": "Session format",
+      "items": [
+        {
+          "id": 16047,
+          "name": "Talk",
+          "sort": 1
+        },
+        {
+          "id": 16046,
+          "name": "Workshop",
+          "sort": 2
+        }
+      ],
+      "sort": 1000
+    }
+  ],
+  "rooms": [
+    {
+      "id": 3575,
+      "name": "Stanza da 100 posti grande",
+      "sort": 0
+    },
+    {
+      "id": 3576,
+      "name": "Stanza da 30 posti sopra",
+      "sort": 1
+    }
+  ]
+}
