@@ -10,6 +10,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 fun main(args: Array<String>) {
+  // ****************************** decomment desidered operation ****************+
   Main.sessionizeToHoverboard()
 //  Main.buildSocialMessage()
   //Main.buildAgenda()
@@ -19,9 +20,11 @@ object Main {
   // Config
 
   private const val isFirestoreBackupEnabled = false
+  //activate to force download of new data from sessionize.com
   private const val isForceUpdateSessionize = true
   private const val isUpdateSpeakerData = false
 
+  //************* set here api endpoint created from sessionize **********+
   private const val sessionizeUrl = "https://sessionize.com/api/v2/ssi4c0ol/view/all"
 
   private const val backupFolder = "backup/"
@@ -120,26 +123,29 @@ object Main {
     val mapComplexity = mapOf(
       "Introductory and overview" to "Beginner",
       "Intermediate" to "Intermediate",
-      "Advanced" to "Advanced"
+      "Advanced" to "Advanced",
+      "Expert" to "Expert"
     )
 
+    // find Session formats and crate a map from them (for the IDs of session formats)
     val mapSessionFormat =
       sessionize.categories.first { it.title == "Session format" }.items.map { it.id to it.name }.toMap()
     val mapLevel = sessionize.categories.first { it.title == "Level" }.items.map { it.id to it.name }.toMap()
-    val mapLanguage = sessionize.categories.first { it.title == "Language" }.items.map { it.id to it.name }.toMap()
+//    val mapLanguage = sessionize.categories.first { it.title == "Language" }.items.map { it.id to it.name }.toMap()
     val mapLanguageFlag = mapOf("Italian" to "🇮🇹", "English" to "🇬🇧")
     val mapTags = sessionize.categories.first { it.title == "Tags" }.items.map { it.id to it.name }.toMap()
 
     val sessionsNew = sessionize.sessions.map { session ->
+      // find the first category of the session that
       val sessionFormat = session.categoryItems.first { mapSessionFormat[it] != null }.let { mapSessionFormat[it]!! }
       val level = session.categoryItems.first { mapLevel[it] != null }.let { mapComplexity[mapLevel[it]]!! }
-      val language = session.categoryItems.first { mapLanguage[it] != null }.let { mapLanguage[it]!! }
+ //     val language = session.categoryItems.first { mapLanguage[it] != null }.let { mapLanguage[it]!! }
       val tags = session.categoryItems.mapNotNull { mapTags[it] }
-
+      val language = "Italian"
       val sessionOld = sessionsOld.getOrDefault(makeSlug(session.title), null)
       if (sessionOld != null) {
         sessionOld.copy(
-          language = language,
+          language = "Italian",
           languageFlag = mapLanguageFlag[language],
           description = session.description,
           complexity = level,

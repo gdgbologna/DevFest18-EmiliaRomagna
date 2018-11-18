@@ -1,1 +1,144 @@
-{"2018-12-01":{"date":"2018-12-01","tracks":[{"title":"Stanza da 100 posti grande"},{"title":"Stanza da 30 posti sopra"}],"dateReadable":"Programma della giornata","timeslots":[{"startTime":"09:00","sessions":[{"items":["registration"]}],"endTime":"09:30"},{"endTime":"10:25","startTime":"09:35","sessions":[{"items":["opening"]}]},{"sessions":[{"items":["next_generation_web_assets"]},{"items":["beyond_smart_speakers_get_your_google_assistant_apps_ready_for_smart_displays"]},{"items":["guida_intergalattica_per_cercatori_di_lavoro"]},{"extend":3,"items":["designing_for_wicked_challenges"]}],"endTime":"11:10","startTime":"10:30"},{"endTime":"12:00","startTime":"11:20","sessions":[{"items":["library_development_open_source_your_ideas"]},{"items":["ml_kit_for_mobile_developers"]},{"items":["develop_a_product_on_gcp"]},{"items":[]}]},{"endTime":"12:50","startTime":"12:10","sessions":[{"items":["introducing_workmanager"]},{"items":["want_a_slice"]},{"items":["the_power_of_kotlin_annotations"]},{"items":[]}]},{"endTime":"13:45","startTime":"12:55","sessions":[{"items":["lunch"]}]},{"endTime":"14:30","startTime":"13:50","sessions":[{"items":["solid_principles_in_practice_the_clean_architecture"]},{"items":[]},{"items":["image_recognition_with_tensorflow_using_deep_learning"]},{"items":["firebase_cloud_firestore_deep_dive"],"extend":2}]},{"sessions":[{"items":["arcore_is_magic"]},{"items":["behind_the_curtains_how_photos_works"]},{"items":["il_lato_oscuro_del_deep_learning"]},{"items":[]}],"endTime":"15:20","startTime":"14:40"},{"endTime":"15:40","startTime":"15:20","sessions":[{"items":["break_15"]}]},{"startTime":"15:40","sessions":[{"items":["motion_layout_easy_animations_for_everyone"]},{"items":["abracagan_introduction_to_the_almost_magical_world_of_gans"]},{"items":["la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"]},{"extend":2,"items":["introduction_to_sceneform"]}],"endTime":"16:20"},{"endTime":"17:10","startTime":"16:30","sessions":[{"items":["android_jetpack_easy_navigation_with_the_new_navigation_controller"]},{"items":["creating_ml-powered_applications"]},{"items":["come_gestire_una_campagna_pubblicitaria_con_adwords_-_guida_di_sopravvivenza"]},{"items":[]}]},{"sessions":[{"items":["how_to_become_an_android_dev_starting_from_ios_and_vice_versa"]},{"items":["the_build_time_of_my_life"]},{"items":["digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"]},{"items":[]}],"endTime":"18:00","startTime":"17:20"},{"sessions":[{"items":["closing"]}],"endTime":"18:30","startTime":"18:00"}]}}
+{
+  "2018-12-01": {
+    "date": "2018-12-01",
+    "dateReadable": "Programma della giornata",
+    "timeslots": [
+      {
+        "endTime": "10:55",
+        "sessions": [
+          {
+            "items": [
+              "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react"
+            ]
+          },
+          {
+            "items": [
+              "unintroduzione_al_tdd"
+            ]
+          }
+        ],
+        "startTime": "10:00"
+      },
+      {
+        "endTime": "12:10",
+        "sessions": [
+          {
+            "items": [
+              "google_cloud_101_architecture_and_orchestration"
+            ]
+          },
+          {
+            "items": [
+              "ethereum_blockchain_development"
+            ]
+          }
+        ],
+        "startTime": "11:15"
+      },
+      {
+        "endTime": "12:50",
+        "sessions": [
+          {
+            "items": [
+              "reasonml_enjoy_front-end_programming_again"
+            ]
+          },
+          {
+            "items": [
+              "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto"
+            ]
+          }
+        ],
+        "startTime": "12:10"
+      },
+      {
+        "endTime": "14:40",
+        "sessions": [
+          {
+            "items": [
+              "android_jet_navigation"
+            ]
+          },
+          {
+            "items": [
+              "whats_new_in_tensorflow_20"
+            ]
+          }
+        ],
+        "startTime": "14:00"
+      },
+      {
+        "endTime": "15:35",
+        "sessions": [
+          {
+            "items": [
+              "digital_records_evidence_-_oracles_and_the_bitcoin_blockchain"
+            ]
+          },
+          {
+            "items": [
+              "continuous_integration_and_delivery_on_google_cloud"
+            ]
+          }
+        ],
+        "startTime": "14:40"
+      },
+      {
+        "endTime": "16:55",
+        "sessions": [
+          {
+            "items": [
+              "python_parallel_computing"
+            ]
+          },
+          {
+            "items": [
+              "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente"
+            ]
+          }
+        ],
+        "startTime": "16:00"
+      },
+      {
+        "endTime": "17:50",
+        "sessions": [
+          {
+            "items": [
+              "ar_foundation_merging_ar_platforms"
+            ]
+          },
+          {
+            "items": [
+              "event_loop_tales_on_io_bound_nodejs_applications"
+            ]
+          }
+        ],
+        "startTime": "16:55"
+      },
+      {
+        "endTime": "18:45",
+        "sessions": [
+          {
+            "items": [
+              "solid_principles_in_practice_the_clean_architecture"
+            ]
+          },
+          {
+            "items": [
+              "google_cloud_data_ml_and_ai_going_serveless"
+            ]
+          }
+        ],
+        "startTime": "17:50"
+      }
+    ],
+    "tracks": [
+      {
+        "title": "Stanza da 100 posti grande"
+      },
+      {
+        "title": "Stanza da 30 posti sopra"
+      }
+    ]
+  }
+}

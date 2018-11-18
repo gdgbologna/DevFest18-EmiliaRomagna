@@ -125,27 +125,436 @@
     "schedule": {},
     "sessions": {},
     "speakers": {
-      "Fabio Collini": {
-        "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.He is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
-        "company": "New York Times",
+      "matteo_baraldi": {
+        "badges": [],
+        "bio": "Hello everyone, my name is Matteo.\r\nI love everything that surrounds the development of software, from the programming to the artistic part.\r\nI work as Unity Developer creating apps of all sorts and forms and in my spare time i enjoy developing videogames with my indie team called \"OctolabGames\".\r\nI founded \"ToughNutToCrack(TNTC)\" where i create and share contents about gamedev.",
+        "company": "",
         "companyLogo": "",
         "companyLogoUrl": "",
-        "country": "Creator of Fuelio app. Fuelio blah blah, Poland",
-        "featured": true,
-        "name": "Fabio Collini",
-        "photo": "",
-        "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1542495730/Speakers/Fabio_Collini.jpg",
-        "shortBio": "Fabio Collini is a Google Developer Expert for Android",
+        "country": "",
+        "featured": false,
+        "name": "Matteo Baraldi",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=c978165733fad43923f0f31e3a88f17b,400,400,True,False,f5-9e96-4ad1-8021-573fd38a8f5e.d90cde4d-4041-4ed4-9b63-accd4b35c12f.jpg",
+        "photoUrl": "https://sessionize.com/image?f=c978165733fad43923f0f31e3a88f17b,400,400,True,False,f5-9e96-4ad1-8021-573fd38a8f5e.d90cde4d-4041-4ed4-9b63-accd4b35c12f.jpg",
+        "shortBio": "",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "plus.google.com/+AdrianKajda",
-            "name": "Google+"
+            "icon": "twitter",
+            "link": "https://twitter.com/_MatteoBaraldi_",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/matteo-baraldi-51747b103/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://toughnuttocrack.it/",
+            "name": "Blog"
+          },
+          {
+            "icon": "website",
+            "link": "https://toughnuttocrack.it/",
+            "name": "Company Website"
           }
         ],
-        "order": 0,
-        "title" : "Android Engineer"
-    }
+        "title": "Unity Developer @ ToughNutToCrack"
+      },
+      "fabio_collini": {
+        "badges": [
+          {
+            "description": "Google Developers Expert Android",
+            "name": "gde"
+          }
+        ],
+        "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
+        "company": "New York Times",
+        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
+        "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
+        "country": "Firenze, Italia",
+        "featured": true,
+        "name": "Fabio Collini",
+        "order": 3,
+        "photo": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,True,False,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
+        "photoUrl": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,True,False,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
+        "shortBio": "Google Developer Expert for Android, he started Android development in 2009",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/fabioCollini",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/fabiocollini",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://codingjam.it/",
+            "name": "Blog"
+          },
+          {
+            "icon": "website",
+            "link": "http://codingjam.it/",
+            "name": "Company Website"
+          }
+        ],
+        "title": "Android Engineer"
+      },
+      "michel_murabito": {
+        "badges": [
+          {
+            "description": "Google Developers Group Milano",
+            "name": "gdg"
+          }
+        ],
+        "bio": "Web Developer By Day, Superhero Wannabe By Night!",
+        "company": "Spindox",
+        "companyLogo": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
+        "companyLogoUrl": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
+        "country": "Milano, Italia",
+        "featured": false,
+        "name": "Michel Murabito",
+        "order": 4,
+        "photo": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
+        "photoUrl": "https://sessionize.com/image?f=0d0c0bf7794b65912f2da70749db82ec,400,400,True,False,66aba2ff-8eda-4d42-9dd4-23394ce58a06.jpg",
+        "shortBio": "Web Developer By Day, Superhero Wannabe By Night",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/michelmurabito",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/michel-murabito-b5568845",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://medium.com/@mich.murabito/",
+            "name": "Blog"
+          },
+          {
+            "icon": "website",
+            "link": "https://www.spindox.it/it/",
+            "name": "Company Website"
+          }
+        ],
+        "title": "Developer senior"
+      },
+      "matteo_bonifazi": {
+        "badges": [],
+        "bio": "Android developer with the wisdom to cook a proper dish of pasta around the world. Developing apps and speaking with local communities to spread the Android platform.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Matteo Bonifazi",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=19b6ba1fcd99a1b6457c4d567409ac16,400,400,True,False,a4f805cb-0859-4d0f-be15-8e8ad2511b44.jpg",
+        "photoUrl": "https://sessionize.com/image?f=19b6ba1fcd99a1b6457c4d567409ac16,400,400,True,False,a4f805cb-0859-4d0f-be15-8e8ad2511b44.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/mbonifazi",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mbonifazi/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://www.sisal.it/",
+            "name": "Company Website"
+          },
+          {
+            "icon": "website",
+            "link": "https://www.linkedin.com/in/mbonifazi/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Lead Architect at Sisal"
+      },
+      "mario_grimaldi": {
+        "badges": [],
+        "bio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili e sono fortunato poiché il mio lavoro è anche una delle mie più grandi passioni.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Mario Grimaldi",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
+        "photoUrl": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/mariogrimaldi89",
+            "name": "Twitter"
+          }
+        ],
+        "title": "Passionate and nerdy Application Developer Consultant @ Thoughtworks"
+      },
+      "alessandro_aglietti": {
+        "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
+        "company": "aqquadro.it / brumbrum.it",
+        "companyLogo": "https://files.brumbrum.it/asset_sito/logo-w.svg",
+        "companyLogoUrl": "https://files.brumbrum.it/asset_sito/logo-w.svg",
+        "country": "Firenze, Italia",
+        "featured": false,
+        "name": "Alessandro Aglietti",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
+        "photoUrl": "https://sessionize.com/image?f=3ef19c53480cd2d5e5132aadd5eb246c,400,400,True,False,cfe3da39-897c-45aa-b45f-5e78c0e898c1.jpg",
+        "shortBio": "since 2004 face-to-face to a monitor",
+        "socials": [],
+        "title": "Developer"
+      },
+      "erik_minarini": {
+        "badges": [],
+        "bio": "Hi. I'm Erik, nice to meet you.\r\nI'm passionate about everything is related to IT.\r\nIn particular, I like graphic and 3D development.\r\nI've always loved videogames, since childhood.\r\nToday I'm a Unity Developer and this allows me to create both applications and games.\r\nI've founded ThoughNutToCrack to share knowledge and passion with everyone.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Erik Minarini",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=dc1517e619fa8ac506ace527fdd0bc9a,400,400,True,False,11-06cc-4e15-93b4-e6da4a7f50e6.52452854-e14e-4411-b4a4-eb5aab23be15.jpg",
+        "photoUrl": "https://sessionize.com/image?f=dc1517e619fa8ac506ace527fdd0bc9a,400,400,True,False,11-06cc-4e15-93b4-e6da4a7f50e6.52452854-e14e-4411-b4a4-eb5aab23be15.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/doJester13",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/erik-minarini-228945b4",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://toughnuttocrack.it/",
+            "name": "Company Website"
+          }
+        ],
+        "title": "Unity Developer @ ToughNutToCrack"
+      },
+      "fausto_fusaro": {
+        "badges": [],
+        "bio": "I love Cloud technologies and DIY labs or projects. I work for a beautiful Google Cloud Premier Partner in Italy, I'm in charge of analyse, design and build IaaS architectures based on Google Cloud Platform, Google Maps Platform and Apigee.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Fausto Fusaro",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=fc64610f23d0d0f1bf2f5d68d8472422,400,400,True,False,34008299-a656-4e60-9748-491dea4e8663.jpg",
+        "photoUrl": "https://sessionize.com/image?f=fc64610f23d0d0f1bf2f5d68d8472422,400,400,True,False,34008299-a656-4e60-9748-491dea4e8663.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/faustory",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/faustof/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://www.injenia.it/",
+            "name": "Company Website"
+          }
+        ],
+        "title": "Google Cloud Architect at Injenia Srl"
+      },
+      "giovanni_bruno": {
+        "badges": [],
+        "bio": "CTO and Senior Dev in Soluzioni Futura",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Giovanni Bruno",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=7a2d552ad6e55e29f4172d44e3629e8a,400,400,True,False,8ecddda8-3b17-4d92-a2e0-10594c27a50f.jpg",
+        "photoUrl": "https://sessionize.com/image?f=7a2d552ad6e55e29f4172d44e3629e8a,400,400,True,False,8ecddda8-3b17-4d92-a2e0-10594c27a50f.jpg",
+        "shortBio": "",
+        "socials": [],
+        "title": "CTO and Senior Dev in Soluzioni Futura"
+      },
+      "alberto_nicoletti": {
+        "badges": [],
+        "bio": "Appassionato di tecnologie web e linguaggi di programmazione. Divoratore di serie TV nel tempo libero. Attualmente frequenta il corso di laurea magistrale in informatica a Bologna e lavora per Braimage ad un software per ridurre il tempo di diagnosi della demenza.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Alberto Nicoletti",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=d35f96549fc22255b272f1acc0d40c1c,400,400,True,False,c124b748-b7f8-49aa-95c4-829bc5f3a250.jpg",
+        "photoUrl": "https://sessionize.com/image?f=d35f96549fc22255b272f1acc0d40c1c,400,400,True,False,c124b748-b7f8-49aa-95c4-829bc5f3a250.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/illbexyz",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/albertonicoletti/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://illbe.xyz",
+            "name": "Blog"
+          }
+        ],
+        "title": "Frontend Developer - Braimage"
+      },
+      "francesco_baldassarri": {
+        "badges": [],
+        "bio": "Proud Geek and Nerd. Developer Relations and Community Manager with one decade experience. His technical interests cover Cloud Architectures and Orchestration, Retro-Computing, Artificial Intelligence Algorithms and Leadership Tips/Tricks.  ",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Francesco Baldassarri",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=86a612e5dc93e248b6c92b59da291c1c,400,400,True,False,4ba10955-b507-40aa-a73f-9fae6ce5242d.jpg",
+        "photoUrl": "https://sessionize.com/image?f=86a612e5dc93e248b6c92b59da291c1c,400,400,True,False,4ba10955-b507-40aa-a73f-9fae6ce5242d.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/francesco_1985",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/fbaldassarri/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://cloud.google.com",
+            "name": "Company Website"
+          }
+        ],
+        "title": "Google Cloud Community Manager EMEA"
+      },
+      "giovanni_albero": {
+        "badges": [],
+        "bio": "Co-Founder/CTO di SMarT e Full-stack developer presso Reallyzation&R-Everse.\r\nNel 2011 ho collaborato con il ministero della salute, attraverso il GOIRC per lo sviluppo di una soluzione software dedicata. Negli ultimi anni ho svolto attività di consulenza realizzando soluzioni web e software ad-hoc per la piccola e media impresa.\r\n\r\n\r\nContributor su Github (Symfony, FosElasticaBundle, DoctrinePHPCRBundle, Elastica, ecc.)",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Giovanni Albero",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=f328ee1510b0fe89c0b34b3502ce1f27,400,400,True,False,26-8047-4955-bf41-43c49d473e00.42159c24-af60-4a71-86a8-62e8cbe70f65.png",
+        "photoUrl": "https://sessionize.com/image?f=f328ee1510b0fe89c0b34b3502ce1f27,400,400,True,False,26-8047-4955-bf41-43c49d473e00.42159c24-af60-4a71-86a8-62e8cbe70f65.png",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/albero92",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/giovanni-albero-bba46564/",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": "Co-Founder/CTO@SMarT Strategy Marketing Technology S.r.l."
+      },
+      "paolo_galeone": {
+        "badges": [],
+        "bio": "I\u2019m a Computer Engineer that\u2019s always been in love with the IT world. As soon as I started developing\r\nsoftware I understood that the most important part of any system is the data that it collects. So,\r\nI started being interested in the data-world: high-dimensional, structured, unstructured, big and\r\nsmall data and the way to store, manage and analyze them. I focused my struggling on how to\r\nefficiently store and analyze any type of data and I found the Computer Vision domain a good training\r\nbench for a better understating of this world. The willing of understating data brought me to focus\r\non Machine Learning and more specifically on Deep Learning.\r\nI\u2019m a strong Open Source supporter and I work exclusively on Linux systems.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Paolo Galeone",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=132a7b20c6082ceefd65c93ba13f70af,400,400,True,False,e6-3f7a-4932-9095-dc0fb061f670.7d49fb69-1a93-4ce3-a22b-4a1267a52a4d.jpg",
+        "photoUrl": "https://sessionize.com/image?f=132a7b20c6082ceefd65c93ba13f70af,400,400,True,False,e6-3f7a-4932-9095-dc0fb061f670.7d49fb69-1a93-4ce3-a22b-4a1267a52a4d.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/paolo_galeone",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/paolo-galeone-6782b311b/",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "https://zuru.tech/",
+            "name": "Company Website"
+          },
+          {
+            "icon": "website",
+            "link": "https://pgaleone.eu/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Head of ML/CV @ ZURU Tech"
+      },
+      "federico_bertani": {
+        "badges": [],
+        "bio": "Abito e studio a Bologna ma vengo da Reggio Emilia. Sono laureato in informatica ma frequento il dipartimento di Fisica. Mi piacciono tante cose, forse troppe.",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
+        "featured": false,
+        "name": "Federico Bertani",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=bbb51e841b1da553107b8d291ab1f4ba,400,400,True,False,d5d2b958-b3b2-401a-ba2f-466dbac24959.jpg",
+        "photoUrl": "https://sessionize.com/image?f=bbb51e841b1da553107b8d291ab1f4ba,400,400,True,False,d5d2b958-b3b2-401a-ba2f-466dbac24959.jpg",
+        "shortBio": "",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/BertaniFederico",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/federicobertani/",
+            "name": "LinkedIn"
+          }
+        ],
+        "title": "Computer Science @ University of Bologna"
+      }
     },
     "team": [{
         "title": "Core Team",
