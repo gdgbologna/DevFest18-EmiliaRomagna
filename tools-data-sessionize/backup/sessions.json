@@ -1,4 +1,24 @@
 {
+  "bigdata_make_it_real_with_google_cloud_data__ai_platform": {
+    "complexity": "Intermediate",
+    "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
+    "icon": "",
+    "image": "",
+    "language": "Italian",
+    "languageFlag": "🇮🇹",
+    "presentation": "",
+    "speakers": [
+      "alessandro_chiarini"
+    ],
+    "tags": [
+      "BigData",
+      "MachineLearning",
+      "GoogleCloud",
+      "AI"
+    ],
+    "title": "BigData? Make it real with Google Cloud Data & AI Platform",
+    "videoId": ""
+  },
   "ar_foundation_merging_ar_platforms": {
     "complexity": "Intermediate",
     "description": "Nowadays developing mobile augmented reality software can implicate having to create two separated projects with two different working pipelines; one for Android using ARCore and one for iOS using ARKit.\r\n\r\nAR Foundations, developed by Unity3D, adds multi-platform functionalities and utilities so developers can work with both devices using only one common set of API.",
@@ -29,7 +49,9 @@
     "speakers": [
       "federico_bertani"
     ],
-    "tags": [],
+    "tags": [
+      "Programming Languages"
+    ],
     "title": "Python Parallel Computing",
     "videoId": ""
   },
@@ -137,23 +159,6 @@
       "Android"
     ],
     "title": "Android JET Navigation",
-    "videoId": ""
-  },
-  "unintroduzione_al_tdd": {
-    "complexity": "Beginner",
-    "description": "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!",
-    "icon": "",
-    "image": "",
-    "language": "Italian",
-    "languageFlag": "🇮🇹",
-    "presentation": "",
-    "speakers": [
-      "mario_grimaldi"
-    ],
-    "tags": [
-      "Kotlin"
-    ],
-    "title": "Un'introduzione al TDD",
     "videoId": ""
   },
   "event_loop_tales_on_io_bound_nodejs_applications": {

@@ -22,21 +22,24 @@
       "roomId": 3575
     },
     {
-      "id": "73824",
-      "title": "Un'introduzione al TDD",
-      "description": "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!",
+      "id": "73819",
+      "title": "BigData? Make it real with Google Cloud Data & AI Platform",
+      "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
       "startsAt": "2018-12-01T10:00:00",
       "endsAt": "2018-12-01T10:55:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "498e97ec-0edc-4c3b-9c5e-5ba04e5d06a0"
+        "16a298f1-c18a-40ee-a2e4-863fb7ef094e"
       ],
       "categoryItems": [
-        13552,
-        13658,
+        13553,
+        13647,
+        13653,
+        13655,
+        13669,
         15058,
-        16046
+        16047
       ],
       "questionAnswers": [],
       "roomId": 3576
@@ -238,6 +241,7 @@
       ],
       "categoryItems": [
         13553,
+        16280,
         15058,
         16047
       ],
@@ -393,6 +397,36 @@
       "fullName": "Alessandro Aglietti"
     },
     {
+      "id": "16a298f1-c18a-40ee-a2e4-863fb7ef094e",
+      "firstName": "Alessandro",
+      "lastName": "Chiarini",
+      "bio": "I'm a sort of techie  with huge curiosity in technology and interest in its implications in business.  I am responsible of two teams who are bringing innovation leveraging on Google Cloud Platform. In my spare time I am super-busy with my two little girls. ",
+      "tagLine": "Head of Innovation & Cloud Computing",
+      "profilePicture": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
+      "isTopSpeaker": false,
+      "links": [
+        {
+          "title": "Twitter",
+          "url": "https://twitter.com/achiarini",
+          "linkType": "Twitter"
+        },
+        {
+          "title": "LinkedIn",
+          "url": "https://linkedin.com/achiarini",
+          "linkType": "LinkedIn"
+        },
+        {
+          "title": "Company Website",
+          "url": "http://www.injenia.it",
+          "linkType": "Company_Website"
+        }
+      ],
+      "sessions": [
+        73819
+      ],
+      "fullName": "Alessandro Chiarini"
+    },
+    {
       "id": "195be411-06cc-4e15-93b4-e6da4a7f50e6",
       "firstName": "Erik",
       "lastName": "Minarini",
@@ -429,7 +463,7 @@
       "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
       "tagLine": "Android Engineer at New York Times",
       "profilePicture": "https://sessionize.com/image?f=b55dea06836c14d622637a93f21b798e,400,400,True,False,65aceaeb-ea1f-4c7b-bb49-800dabbdfa88.jpg",
-      "isTopSpeaker": false,
+      "isTopSpeaker": true,
       "links": [
         {
           "title": "Twitter",
@@ -582,26 +616,6 @@
         73809
       ],
       "fullName": "Giovanni Bruno"
-    },
-    {
-      "id": "498e97ec-0edc-4c3b-9c5e-5ba04e5d06a0",
-      "firstName": "Mario",
-      "lastName": "Grimaldi",
-      "bio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili e sono fortunato poiché il mio lavoro è anche una delle mie più grandi passioni.",
-      "tagLine": "Passionate and nerdy Application Developer Consultant @ Thoughtworks",
-      "profilePicture": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/mariogrimaldi89",
-          "linkType": "Twitter"
-        }
-      ],
-      "sessions": [
-        73824
-      ],
-      "fullName": "Mario Grimaldi"
     },
     {
       "id": "b76deef5-9e96-4ad1-8021-573fd38a8f5e",
@@ -911,6 +925,11 @@
           "id": 16099,
           "name": "Unity3D",
           "sort": 27
+        },
+        {
+          "id": 16280,
+          "name": "Programming Languages",
+          "sort": 28
         }
       ],
       "sort": 2
@@ -958,12 +977,12 @@
   "rooms": [
     {
       "id": 3575,
-      "name": "Stanza da 100 posti grande",
+      "name": "Main Room",
       "sort": 0
     },
     {
       "id": 3576,
-      "name": "Stanza da 30 posti sopra",
+      "name": "Top Room",
       "sort": 1
     }
   ]

@@ -151,7 +151,7 @@
               },
               {
                 "items": [
-                  "unintroduzione_al_tdd"
+                  "bigdata_make_it_real_with_google_cloud_data__ai_platform"
                 ]
               }
             ],
@@ -313,38 +313,57 @@
       }
     },
     "sessions": {
-
       "registration": {
         "description": "Get your badge",
         "icon": "registration",
         "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
         "title": "Registration"
-    },
-    "opening": {
-      "description": "Inizio ufficiale della conferenza, presentazione del programma, degli organizer e dei partner",
-      "icon": "opening",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language": "Italian",
-      "title": "GDG DevFest Emilia Romagna 2018 Opening"
-  },
-  "lunch": {
-      "description": "Il meteo prevede pioggia di cibo!",
-      "icon": "lunch",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title": "Lunch"
-  },
-  "coffee_break": {
-      "description": "È l'ora di darsi la carica con un caffè e qualche biscotto!",
-      "icon": "coffee-break",
-      "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title": "Coffee break"
-  },
-  "closing": {
-    "description": "Chiusura della giornata con i saluti.",
-    "icon": "party",
-    "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-    "title": "Saluti & networking"
-},
+      },
+      "opening": {
+        "description": "Inizio ufficiale della conferenza, presentazione del programma, degli organizer e dei partner",
+        "icon": "opening",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "language": "Italian",
+        "title": "GDG DevFest Emilia Romagna 2018 Opening"
+      },
+      "lunch": {
+        "description": "Il meteo prevede pioggia di cibo!",
+        "icon": "lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "title": "Lunch"
+      },
+      "coffee_break": {
+        "description": "È l'ora di darsi la carica con un caffè e qualche biscotto!",
+        "icon": "coffee-break",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+        "title": "Coffee break"
+      },
+      "closing": {
+        "description": "Chiusura della giornata con i saluti.",
+        "icon": "party",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
+        "title": "Saluti & networking"
+      },
+      "bigdata_make_it_real_with_google_cloud_data__ai_platform": {
+        "complexity": "Intermediate",
+        "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
+        "icon": "",
+        "image": "",
+        "language": "Italian",
+        "languageFlag": "🇮🇹",
+        "presentation": "",
+        "speakers": [
+          "alessandro_chiarini"
+        ],
+        "tags": [
+          "BigData",
+          "MachineLearning",
+          "GoogleCloud",
+          "AI"
+        ],
+        "title": "BigData? Make it real with Google Cloud Data & AI Platform",
+        "videoId": ""
+      },
       "ar_foundation_merging_ar_platforms": {
         "complexity": "Intermediate",
         "description": "Nowadays developing mobile augmented reality software can implicate having to create two separated projects with two different working pipelines; one for Android using ARCore and one for iOS using ARKit.\r\n\r\nAR Foundations, developed by Unity3D, adds multi-platform functionalities and utilities so developers can work with both devices using only one common set of API.",
@@ -375,7 +394,9 @@
         "speakers": [
           "federico_bertani"
         ],
-        "tags": [],
+        "tags": [
+          "Programming Languages"
+        ],
         "title": "Python Parallel Computing",
         "videoId": ""
       },
@@ -483,23 +504,6 @@
           "Android"
         ],
         "title": "Android JET Navigation",
-        "videoId": ""
-      },
-      "unintroduzione_al_tdd": {
-        "complexity": "Beginner",
-        "description": "TDD: Test Driven Development\r\nScrivere i test prima del codice che vogliamo testare? Come funziona?\r\nUna breve introduzione con un esercizio pratico detto \"Kata\" che ci permetterà di fare un primo passo verso questo approccio allo sviluppo.\r\n\r\nMetteremo le mani in pasta quindi porta con te il tuo portatile!",
-        "icon": "",
-        "image": "",
-        "language": "Italian",
-        "languageFlag": "🇮🇹",
-        "presentation": "",
-        "speakers": [
-          "mario_grimaldi"
-        ],
-        "tags": [
-          "Kotlin"
-        ],
-        "title": "Un'introduzione al TDD",
         "videoId": ""
       },
       "event_loop_tales_on_io_bound_nodejs_applications": {
@@ -987,27 +991,37 @@
         ],
         "title": "Developer Senior"
       },
-      "mario_grimaldi": {
+      "alessandro_chiarini": {
         "badges": [],
-        "bio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili e sono fortunato poiché il mio lavoro è anche una delle mie più grandi passioni.",
-        "company": "ThoughtWorks",
-        "companyLogo": "https://www.thoughtworks.com/imgs/tw-logo.png",
-        "companyLogoUrl": "https://www.thoughtworks.com/imgs/tw-logo.png",
-        "country": "Reggio Emilia, Italia",
+        "bio": "I'm a sort of techie  with huge curiosity in technology and interest in its implications in business.  I am responsible of two teams who are bringing innovation leveraging on Google Cloud Platform. In my spare time I am super-busy with my two little girls. ",
+        "company": "",
+        "companyLogo": "",
+        "companyLogoUrl": "",
+        "country": "",
         "featured": false,
-        "name": "Mario Grimaldi",
-        "order": 11,
-        "photo": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
-        "photoUrl": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
-        "shortBio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili...",
+        "name": "Alessandro Chiarini",
+        "order": 5,
+        "photo": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
+        "photoUrl": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
+        "shortBio": "",
         "socials": [
           {
             "icon": "twitter",
-            "link": "https://twitter.com/mariogrimaldi89",
+            "link": "https://twitter.com/achiarini",
             "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://linkedin.com/achiarini",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "website",
+            "link": "http://www.injenia.it",
+            "name": "Company Website"
           }
         ],
-        "title": "Passionate and nerdy Application Developer Consultant @ Thoughtworks"
+        "title": "Head of Innovation & Cloud Computing"
       },
       "alessandro_aglietti": {
         "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",

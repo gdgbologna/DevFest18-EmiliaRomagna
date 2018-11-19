@@ -157,27 +157,37 @@
     ],
     "title": "Lead Architect at Sisal"
   },
-  "mario_grimaldi": {
+  "alessandro_chiarini": {
     "badges": [],
-    "bio": "Lavoro per Thoughtworks Italia come software developer.\r\n\r\nMi piacciono il clean code, TDD e le metodologie agili e sono fortunato poiché il mio lavoro è anche una delle mie più grandi passioni.",
+    "bio": "I'm a sort of techie  with huge curiosity in technology and interest in its implications in business.  I am responsible of two teams who are bringing innovation leveraging on Google Cloud Platform. In my spare time I am super-busy with my two little girls. ",
     "company": "",
     "companyLogo": "",
     "companyLogoUrl": "",
     "country": "",
     "featured": false,
-    "name": "Mario Grimaldi",
+    "name": "Alessandro Chiarini",
     "order": 5,
-    "photo": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
-    "photoUrl": "https://sessionize.com/image?f=cfc86526f01d6d3e0310c69e6657b620,400,400,True,False,e4c5511f-1580-42e1-b3c9-80d75070eb33.jpg",
+    "photo": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
+    "photoUrl": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
     "shortBio": "",
     "socials": [
       {
         "icon": "twitter",
-        "link": "https://twitter.com/mariogrimaldi89",
+        "link": "https://twitter.com/achiarini",
         "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://linkedin.com/achiarini",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://www.injenia.it",
+        "name": "Company Website"
       }
     ],
-    "title": "Passionate and nerdy Application Developer Consultant @ Thoughtworks"
+    "title": "Head of Innovation & Cloud Computing"
   },
   "alessandro_aglietti": {
     "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
