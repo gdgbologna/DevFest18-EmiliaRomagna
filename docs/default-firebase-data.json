@@ -994,16 +994,16 @@
       "alessandro_chiarini": {
         "badges": [],
         "bio": "I'm a sort of techie  with huge curiosity in technology and interest in its implications in business.  I am responsible of two teams who are bringing innovation leveraging on Google Cloud Platform. In my spare time I am super-busy with my two little girls. ",
-        "company": "",
-        "companyLogo": "",
-        "companyLogoUrl": "",
-        "country": "",
-        "featured": false,
+        "company": "Injenia",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541505696/Partner/injenia.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541505696/Partner/injenia.png",
+        "country": "Bologna, Italia",
+        "featured": true,
         "name": "Alessandro Chiarini",
         "order": 5,
         "photo": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
         "photoUrl": "https://sessionize.com/image?f=c1a45ddcecef13475726cc344578b503,400,400,True,False,8017b553-fe11-42f1-8ae6-8864f161f1dc.jpg",
-        "shortBio": "",
+        "shortBio": "Techie  with huge curiosity in technology and interest in its implications in business.",
         "socials": [
           {
             "icon": "twitter",
