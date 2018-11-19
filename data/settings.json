@@ -62,8 +62,8 @@
     },
     "speakers": {
       "title": "Speakers",
-      "metaDescription": "Scopri i Googlers, i Partner, e tutti gli Speaker che saranno nostri ospiti! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuovi.",
-      "description": "Vieni a seguire Googlers, Partner, e tutti gli Speaker che saranno nostri ospiti! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuovi...",
+      "metaDescription": "Scopri i Googlers, i Partner, e tutti gli Speaker che saranno nostri ospiti!",
+      "description": "Vieni a seguire Googlers, Partner, e tutti gli Speaker che saranno nostri ospiti!",
       "background": {
         "color": "#FFF"
       },
@@ -80,7 +80,7 @@
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Scegli quali sessioni seguire",
-      "description": "Scopri quali sessioni seguire! Ripassa da qui per scoprire maggiori informazioni appena ne annunceremo di nuove...",
+      "description": "Scopri quali sessioni seguire!",
       "background": {
         "color": "#fff"
       },

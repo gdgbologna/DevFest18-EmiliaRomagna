@@ -91,15 +91,15 @@
         "statisticsBlock": {
             "attendees": {
                 "label": "Partecipanti",
-                "number": "100+"
+                "number": "150+"
             },
             "days": {
                 "label": "Tematiche",
-                "number": "7+"
+                "number": "10+"
             },
             "sessions": {
                 "label": "Speaker",
-                "number": "9+"
+                "number": "14+"
             },
             "tracks": {
                 "label": "Partner",
