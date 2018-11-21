@@ -91,7 +91,7 @@
         "statisticsBlock": {
             "attendees": {
                 "label": "Partecipanti",
-                "number": "150+"
+                "number": "120+"
             },
             "days": {
                 "label": "Tematiche",
@@ -103,7 +103,7 @@
             },
             "tracks": {
                 "label": "Partner",
-                "number": "15+"
+                "number": "16+"
             }
         }
     },

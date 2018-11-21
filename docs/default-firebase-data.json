@@ -53,7 +53,16 @@
             "url": "http://www.thesis-srl.com/"
         }]
     }, {
-        "order": 4,
+      "order": 4,
+      "title": "Printing Sponsor",
+      "logos": [{
+          "order": 0,
+          "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542747387/Partner/tipoa.png",
+          "name": "Tipografia Altedo",
+          "url": "http://www.tipografialtedo.com/"
+      }]
+  }, {
+        "order": 5,
         "title": "Hosting Partners",
         "logos": [{
             "order": 0,
@@ -67,7 +76,7 @@
             "url": "http://www.reinnova.it/"
         }]
     }, {
-        "order": 5,
+        "order": 6,
         "title": "Special Partners",
         "logos": [{
             "order": 0,
@@ -76,7 +85,7 @@
             "url": "http://udemy.com/"
         }]
     }, {
-        "order": 6,
+        "order": 7,
         "title": "Media Partners",
         "logos": [{
                 "order": 0,
@@ -95,27 +104,32 @@
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540900653/Partner/fpbo.png",
                 "name": "Functional Programming Bologna",
                 "url": "https://www.facebook.com/fpinbo/"
+            },{
+              "order": 3,
+              "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542050683/Partner/braimage.png",
+              "name": "Braimage",
+              "url": "https://www.braimage.it/"
             },
             {
-                "order": 3,
+                "order": 4,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540310756/Partner/adi.png",
                 "name": "Android Developers Italia",
                 "url": "http://androiddevs.it"
             },
             {
-                "order": 4,
+                "order": 5,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542042447/Partner/iaml.png",
                 "name": "Italian Association for Machine Learning",
                 "url": "https://iaml.it/"
             },
             {
-                "order": 5,
+                "order": 6,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541454499/Partner/impact_hub.jpg",
                 "name": "Impact Hub Reggio Emilia",
                 "url": "http://www.impacthubre.it/"
             },
             {
-                "order": 6,
+                "order": 7,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
@@ -860,7 +874,7 @@
         "companyLogo": "",
         "companyLogoUrl": "",
         "country": "Bologna, Italia",
-        "featured": true,
+        "featured": false,
         "name": "Francesco Baldassarri",
         "order": 7,
         "photo": "https://sessionize.com/image?f=86a612e5dc93e248b6c92b59da291c1c,400,400,True,False,4ba10955-b507-40aa-a73f-9fae6ce5242d.jpg",
