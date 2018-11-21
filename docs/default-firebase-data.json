@@ -1182,7 +1182,7 @@
             "title": "Organizer | GDG Bologna"
         }]
     }, {
-        "title": "Contributors ♡",
+        "title": "Contributors ❤",
         "members": [{
             "name": "Giorgio Renzi",
             "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540324377/Team/giorgio-renzi.jpg",
@@ -1199,9 +1199,31 @@
                 "link": "https://github.com/gioggio",
                 "name": "Github"
             }],
-            "order": 1,
-            "title": "Computer Engineering student @ Unibo"
-        }]
+            "order": 0,
+            "title": "Computer Engineering Student @ Unibo"
+        },{
+          "name": "Alberto Nicoletti",
+          "photoUrl": "https://avatars1.githubusercontent.com/u/3688366?s=400&v=4",
+          "socials": [{
+              "icon": "twitter",
+              "link": "https://twitter.com/illbexyz",
+              "name": "Twitter"
+            }, {
+              "icon": "github",
+              "link": "https://github.com/illbexyz",
+              "name": "github"
+            },{
+              "icon": "linkedin",
+              "link": "https://linkedin.com/in/albertonicoletti/",
+              "name": "Linkedin"
+          } , {
+              "icon": "website",
+              "link": "https://illbe.xyz/",
+              "name": "website"
+          }],
+          "order": 1,
+          "title": "Frontend Developer, Braimage"
+      }]
     }],
     "triggers": {
         "images": false
