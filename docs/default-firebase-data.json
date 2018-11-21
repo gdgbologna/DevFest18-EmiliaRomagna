@@ -106,30 +106,35 @@
                 "url": "https://www.facebook.com/fpinbo/"
             },{
               "order": 3,
+              "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542841321/Partner/bolognajs.svg",
+              "name": "Bologna JS",
+              "url": "https://www.meetup.com/Bologna-JS-Meetup/"
+              },{
+              "order": 4,
               "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542050683/Partner/braimage.png",
               "name": "Braimage",
               "url": "https://www.braimage.it/"
             },
             {
-                "order": 4,
+                "order": 5,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540310756/Partner/adi.png",
                 "name": "Android Developers Italia",
                 "url": "http://androiddevs.it"
             },
             {
-                "order": 5,
+                "order": 6,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542042447/Partner/iaml.png",
                 "name": "Italian Association for Machine Learning",
                 "url": "https://iaml.it/"
             },
             {
-                "order": 6,
+                "order": 7,
                 "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1541454499/Partner/impact_hub.jpg",
                 "name": "Impact Hub Reggio Emilia",
                 "url": "http://www.impacthubre.it/"
             },
             {
-                "order": 7,
+                "order": 8,
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
