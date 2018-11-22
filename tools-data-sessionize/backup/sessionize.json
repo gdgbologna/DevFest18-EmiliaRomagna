@@ -1,6 +1,27 @@
 {
   "sessions": [
     {
+      "id": "72279",
+      "title": "SOLID principles in practice: the clean architecture",
+      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martin nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
+      "startsAt": "2018-12-01T10:00:00",
+      "endsAt": "2018-12-01T10:55:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
+      ],
+      "categoryItems": [
+        13553,
+        13579,
+        13658,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": 3576
+    },
+    {
       "id": "72986",
       "title": "La Morte Nera, e se fosse prototipizzata con Firebase e React?",
       "description": "Vedremo come sfruttare al meglio Firebase e React per prototipazione veloce di applicazioni complesse. Sfruttando le nuove feature di Firebase in un contesto a componenti impareremo come accelerare senza perder pezzi per strada.",
@@ -20,29 +41,6 @@
       ],
       "questionAnswers": [],
       "roomId": 3575
-    },
-    {
-      "id": "73819",
-      "title": "BigData? Make it real with Google Cloud Data & AI Platform",
-      "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
-      "startsAt": "2018-12-01T10:00:00",
-      "endsAt": "2018-12-01T10:55:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "16a298f1-c18a-40ee-a2e4-863fb7ef094e"
-      ],
-      "categoryItems": [
-        13553,
-        13647,
-        13653,
-        13655,
-        13669,
-        15058,
-        16047
-      ],
-      "questionAnswers": [],
-      "roomId": 3576
     },
     {
       "id": "73152",
@@ -291,27 +289,6 @@
       "roomId": 3575
     },
     {
-      "id": "72279",
-      "title": "SOLID principles in practice: the clean architecture",
-      "description": "La clean architecture è stata formalizzata in un post da Robert C. Martin nel 2012, è abbastanza nuova anche se si basa sui principi SOLID (presentati per la prima volta nei primi anni 2000).\r\nIl beneficio principale che si ottiene usando questa architettura è la testabilità del codice, infatti impone una separazione netta fra il codice core dell'applicazione e quello relativo ai fattori esterni (che di solito complicano il testing).\r\nIn questo talk vedremo un esempio pratico in Kotlin di come sfruttare i principi alla base della clean architecture. Una particolare attenzione sarà tenuta per la D di SOLID: la dependency inversion.",
-      "startsAt": "2018-12-01T17:50:00",
-      "endsAt": "2018-12-01T18:45:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "2e93a5e7-2037-4d7d-a548-7512f9c14960"
-      ],
-      "categoryItems": [
-        13553,
-        13579,
-        13658,
-        15058,
-        16047
-      ],
-      "questionAnswers": [],
-      "roomId": 3575
-    },
-    {
       "id": "73154",
       "title": "Google Cloud: Data, ML and AI going serveless",
       "description": "First touch with data collection and analysis using the Google Cloud Platform. One-hour overview of Google Cloud Functions, Auto ML, pre-trained models and other useful tools. ",
@@ -327,6 +304,29 @@
         13647,
         13655,
         13653,
+        15058,
+        16047
+      ],
+      "questionAnswers": [],
+      "roomId": 3575
+    },
+    {
+      "id": "73819",
+      "title": "BigData? Make it real with Google Cloud Data & AI Platform",
+      "description": "Transforming hype into action leveraging a magic world of high quality and top technology managed services to build your custom data pipelines, analytics and ML insights with ease.",
+      "startsAt": "2018-12-01T17:50:00",
+      "endsAt": "2018-12-01T18:45:00",
+      "isServiceSession": false,
+      "isPlenumSession": false,
+      "speakers": [
+        "16a298f1-c18a-40ee-a2e4-863fb7ef094e"
+      ],
+      "categoryItems": [
+        13553,
+        13647,
+        13653,
+        13655,
+        13669,
         15058,
         16047
       ],

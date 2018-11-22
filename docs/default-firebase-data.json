@@ -151,7 +151,7 @@
               },
               {
                 "items": [
-                  "bigdata_make_it_real_with_google_cloud_data__ai_platform"
+                  "solid_principles_in_practice_the_clean_architecture"
                 ]
               }
             ],
@@ -279,12 +279,12 @@
             "sessions": [
               {
                 "items": [
-                  "solid_principles_in_practice_the_clean_architecture"
+                  "google_cloud_data_ml_and_ai_going_serveless"
                 ]
               },
               {
                 "items": [
-                  "google_cloud_data_ml_and_ai_going_serveless"
+                  "bigdata_make_it_real_with_google_cloud_data__ai_platform"
                 ]
               }
             ],
@@ -301,7 +301,7 @@
             ],
             "startTime": "18:45"
           }
-        ],
+            ],
         "tracks": [
           {
             "title": "Main Room"
@@ -759,17 +759,17 @@
             "name": "gdg"
           }
         ],
-        "bio": "Abito e studio a Bologna ma vengo da Reggio Emilia. Sono laureato in informatica ma frequento il dipartimento di Fisica. Mi piacciono tante cose, forse troppe.",
+        "bio": "Computer Science Major. ",
         "company": "University of Bologna",
-        "companyLogo": "",
-        "companyLogoUrl": "",
+        "companyLogo": "https://www.unibo.it/it/logo-unibo.png",
+        "companyLogoUrl": "https://www.unibo.it/it/logo-unibo.png",
         "country": "Bologna, Italia",
         "featured": false,
         "name": "Federico Bertani",
         "order": 4,
         "photo": "https://sessionize.com/image?f=bbb51e841b1da553107b8d291ab1f4ba,400,400,True,False,d5d2b958-b3b2-401a-ba2f-466dbac24959.jpg",
         "photoUrl": "https://sessionize.com/image?f=bbb51e841b1da553107b8d291ab1f4ba,400,400,True,False,d5d2b958-b3b2-401a-ba2f-466dbac24959.jpg",
-        "shortBio": "Laureato in informatica ma frequento il dipartimento di Fisica. Mi piacciono tante cose, forse troppe.",
+        "shortBio": "Alma Mater Studiorum Computer Science Major.",
         "socials": [
           {
             "icon": "twitter",
