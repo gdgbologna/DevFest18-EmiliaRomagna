@@ -138,7 +138,14 @@
                 "logoUrl": "https://sessionize.com/Assets/buttons/sessionize--button-234x60.png",
                 "name": "Sessionize",
                 "url": "https://sessionize.com/"
+            },
+            {
+              "order": 9,
+              "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1542996119/Partner/aster_logo.png",
+              "name": "Aster",
+              "url": "https://www.aster.it/"
             }
+
         ]
     }],
     "schedule": {
