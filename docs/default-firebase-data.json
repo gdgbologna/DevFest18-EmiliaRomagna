@@ -111,7 +111,7 @@
               "url": "https://www.meetup.com/Bologna-JS-Meetup/"
               },{
               "order": 4,
-              "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1542050683/Partner/braimage.png",
+              "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543233477/Partner/braimage.svg",
               "name": "Braimage",
               "url": "https://www.braimage.it/"
             },
@@ -915,8 +915,8 @@
         "badges": [],
         "bio": "Appassionato di tecnologie web e linguaggi di programmazione. Divoratore di serie TV nel tempo libero. Attualmente frequenta il corso di laurea magistrale in informatica a Bologna e lavora per Braimage ad un software per ridurre il tempo di diagnosi della demenza.",
         "company": "Braimage",
-        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/v1542050683/Partner/braimage.png",
-        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1542050683/Partner/braimage.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543233477/Partner/braimage.svg",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543233477/Partner/braimage.svg",
         "country": "Bologna, Italia",
         "featured": false,
         "name": "Alberto Nicoletti",

@@ -133,7 +133,7 @@
             href="{$ devFestER.eventbriteUrl $}"
             target="_blank"
             rel="noopener noreferrer"
-            sold-out="[[false]]"
+            sold-out="true"
             in-demand="true"
             on-tap="_goToTickets"
             ga-on="click"
@@ -152,11 +152,11 @@
               </div>
             </div>
             <div class="actions">
-              <div class="sold-out" block$="false">
-                {$ ticketsBlock.soldOut $}
+              <div class="sold-out" block="true">
+                SOLD OUT
               </div>
 
-              <paper-button primary hidden$="false" disabled$="false">
+              <paper-button primary hidden="true" disabled="true">
                 {$ buyTicket $}
               </paper-button>
 
