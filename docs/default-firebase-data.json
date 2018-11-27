@@ -666,8 +666,8 @@
         ],
         "bio": "Android developer with the wisdom to cook a proper dish of pasta around the world. Developing apps and speaking with local communities to spread the Android platform.",
         "company": "Sisal",
-        "companyLogo": "https://upload.wikimedia.org/wikipedia/it/b/b8/Sisal.png",
-        "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/it/b/b8/Sisal.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281497/Companies/Sisal.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281497/Companies/Sisal.png",
         "country": "Roma, Italia",
         "featured": true,
         "name": "Matteo Bonifazi",
@@ -690,11 +690,6 @@
             "icon": "website",
             "link": "https://www.sisal.it/",
             "name": "Company Website"
-          },
-          {
-            "icon": "website",
-            "link": "https://www.linkedin.com/in/mbonifazi/",
-            "name": "Blog"
           }
         ],
         "title": "Lead Architect"
@@ -708,8 +703,8 @@
         ],
         "bio": "Fabio Collini is a Google Developer Expert for Android, he started Android development in 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he works as a remote developer in the Android team at the New York Times. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development.\r\nHe is a co-owner and writer for the blog CodingJam dedicated to Java, Android and web development.",
         "company": "New York Times",
-        "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
-        "companyLogoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_New_York_Times_logo.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281589/Companies/tnyt.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281589/Companies/tnyt.png",
         "country": "Firenze, Italia",
         "featured": true,
         "name": "Fabio Collini",
@@ -727,11 +722,6 @@
             "icon": "linkedin",
             "link": "https://www.linkedin.com/in/fabiocollini",
             "name": "LinkedIn"
-          },
-          {
-            "icon": "website",
-            "link": "http://codingjam.it/",
-            "name": "Blog"
           },
           {
             "icon": "website",
@@ -787,8 +777,8 @@
         ],
         "bio": "Computer Science Major. ",
         "company": "University of Bologna",
-        "companyLogo": "https://www.unibo.it/it/logo-unibo.png",
-        "companyLogoUrl": "https://www.unibo.it/it/logo-unibo.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281634/Companies/unibo.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281634/Companies/unibo.png",
         "country": "Bologna, Italia",
         "featured": false,
         "name": "Federico Bertani",
@@ -970,11 +960,6 @@
           {
             "icon": "website",
             "link": "https://toughnuttocrack.it/",
-            "name": "Blog"
-          },
-          {
-            "icon": "website",
-            "link": "https://toughnuttocrack.it/",
             "name": "Company Website"
           }
         ],
@@ -984,8 +969,8 @@
         "badges": [],
         "bio": "Web Developer By Day, Superhero Wannabe By Night!",
         "company": "Spindox",
-        "companyLogo": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
-        "companyLogoUrl": "https://www.spindox.it/it/wp-content/themes/spindox/assets/img/logo-spindox.svg",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281401/Companies/spindox.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281401/Companies/spindox.png",
         "country": "Milano, Italia",
         "featured": false,
         "name": "Michel Murabito",
@@ -1052,8 +1037,8 @@
       "alessandro_aglietti": {
         "bio": "Alessandro Aglietti, from Firenze, is aqquadro: since 2004 face-to-face to a monitor. Not to write poems! Be RSS: ban social network from life for life.",
         "company": "aqquadro.it / brumbrum.it",
-        "companyLogo": "https://files.brumbrum.it/asset_sito/logo_ld.png",
-        "companyLogoUrl": "https://files.brumbrum.it/asset_sito/logo_ld.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281698/Companies/brumbrum.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543281698/Companies/brumbrum.png",
         "country": "Firenze, Italia",
         "featured": false,
         "name": "Alessandro Aglietti",
@@ -1074,8 +1059,8 @@
         "badges": [],
         "bio": "CTO and Senior Dev in Soluzioni Futura",
         "company": "Soluzioni Futura",
-        "companyLogo": "https://d2cwdsw6tvlr3m.cloudfront.net/static/icons/logo_c00fb21f9c.svg",
-        "companyLogoUrl": "https://d2cwdsw6tvlr3m.cloudfront.net/static/icons/logo_c00fb21f9c.svg",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282016/Companies/soluzioni-futura.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282016/Companies/soluzioni-futura.png",
         "country": "Italia",
         "featured": false,
         "name": "Giovanni Bruno",
@@ -1090,8 +1075,8 @@
         "badges": [],
         "bio": "Co-Founder/CTO di SMarT e Full-stack developer presso Reallyzation&R-Everse.\r\nNel 2011 ho collaborato con il ministero della salute, attraverso il GOIRC per lo sviluppo di una soluzione software dedicata. Negli ultimi anni ho svolto attività di consulenza realizzando soluzioni web e software ad-hoc per la piccola e media impresa.\r\n\r\n\r\nContributor su Github (Symfony, FosElasticaBundle, DoctrinePHPCRBundle, Elastica, ecc.)",
         "company": "SMarT Strategy Marketing Technology S.r.l.",
-        "companyLogo": "https://www.smartstrategy.eu/wp-content/themes/smart/assets/img/logo.png",
-        "companyLogoUrl": "https://www.smartstrategy.eu/wp-content/themes/smart/assets/img/logo.png",
+        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282061/Companies/smart.png",
+        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282061/Companies/smart.png",
         "country": "Italia",
         "featured": false,
         "name": "Giovanni Albero",
@@ -1118,7 +1103,7 @@
         "title": "Core Team",
         "members": [{
             "name": "Devid Farinelli",
-            "photoUrl": "https://lh3.googleusercontent.com/cTz5IWCzyZhVp_28PiYa9H38cGuj1dEAw5G27aDhIk6_UQ2nw4yFprWgMo5p-n2WqSAMJrWKq-NGAL4=w1418-h1416-rw-no",
+            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280644/Team/devid.png",
             "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/misterdev_",
@@ -1140,7 +1125,7 @@
             "title": "Organizer | GDG Bologna"
         }, {
             "name": "Federico Govoni",
-            "photoUrl": "https://avatars2.githubusercontent.com/u/7337665?s=400&v=4",
+            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280860/Team/govo.jpg",
             "socials": [{
                 "icon": "twitter",
                 "link": "https://twitter.com/fedegovo",
@@ -1158,7 +1143,7 @@
             "title": "Organizer | GDG Bologna"
         }, {
             "name": "Erik Minarini",
-            "photoUrl": "https://avatars2.githubusercontent.com/u/11076285?s=460&v=4",
+            "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280791/Team/erik.jpg",
             "socials": [{
                 "icon": "website",
                 "link": "https://dojester13.github.io",
@@ -1176,23 +1161,45 @@
                 "link": "https://www.linkedin.com/in/erik-minarini-228945b4/",
                 "name": "Linkedin"
             }],
-            "order": 1,
+            "order": 2,
             "title": "Organizer | GDG Bologna"
         }, {
-            "name": "Federico Bertani",
-            "photoUrl": "https://avatars1.githubusercontent.com/u/15829877?s=460&v=4",
-            "socials": [{
-                "icon": "twitter",
-                "link": "https://twitter.com/bertanifederico",
-                "name": "Twitter"
-            }, {
-                "icon": "github",
-                "link": "https://github.com/federicoB",
-                "name": "Github"
-            }],
-            "order": 1,
-            "title": "Organizer | GDG Bologna"
-        }]
+          "name": "Federico Bertani",
+          "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280890/Team/lilb.jpg",
+          "socials": [{
+              "icon": "twitter",
+              "link": "https://twitter.com/bertanifederico",
+              "name": "Twitter"
+          }, {
+              "icon": "github",
+              "link": "https://github.com/federicoB",
+              "name": "Github"
+          }],
+          "order": 3,
+          "title": "Organizer | GDG Bologna"
+      }, {
+        "name": "Michele De Simoni",
+        "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280015/Team/ubik.jpg",
+        "socials": [{
+            "icon": "website",
+            "link": "https://ubik.tech",
+            "name": "Website"
+          }, {
+              "icon": "twitter",
+              "link": "https://twitter.com/mr_ubik",
+              "name": "Twitter"
+          }, {
+            "icon": "github",
+            "link": "https://github.com/mr_ubik",
+            "name": "Github"
+          }, {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/micheledesimoni/",
+            "name": "Linkedin"
+        }],
+        "order": 3,
+        "title": "Organizer | GDG Bologna"
+    }]
     }, {
         "title": "Contributors ❤",
         "members": [{
@@ -1215,7 +1222,7 @@
             "title": "Computer Engineering Student @ Unibo"
         },{
           "name": "Alberto Nicoletti",
-          "photoUrl": "https://avatars1.githubusercontent.com/u/3688366?s=400&v=4",
+          "photoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543280919/Team/alby.jpg",
           "socials": [{
               "icon": "twitter",
               "link": "https://twitter.com/illbexyz",
