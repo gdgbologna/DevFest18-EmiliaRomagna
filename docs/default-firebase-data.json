@@ -83,6 +83,12 @@
             "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1540910721/Partner/udemy.svg",
             "name": "Udemy",
             "url": "http://udemy.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/v1543420232/Partner/comune_reggio_emilia.jpg",
+          "name": "Comune di Reggio Nell'Emilia",
+          "url": "https://www.comune.re.it/"
         }]
     }, {
         "order": 7,
