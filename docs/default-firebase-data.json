@@ -209,7 +209,7 @@
               },
               {
                 "items": [
-                  "ethereum_blockchain_development"
+                  "ethereum_blockchain_development_1"
                 ]
               }
             ],
@@ -225,7 +225,7 @@
               },
               {
                 "items": [
-                  "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto"
+                  "ethereum_blockchain_development_2"
                 ]
               }
             ],
@@ -287,7 +287,7 @@
               },
               {
                 "items": [
-                  "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente"
+                  "hyperledger"
                 ]
               }
             ],
@@ -470,43 +470,6 @@
         "title": "SOLID principles in practice: the clean architecture",
         "videoId": ""
       },
-      "ansible_-_scrivere_un_playbook_gestire_macchine_virtuali_in_locale_e_in_remoto": {
-        "complexity": "Beginner",
-        "description": "Durante il workshop verrà fatta una breve panoramica sui principi di funzionamento di Ansible, verrà mostrata la struttura di un progetto (playbook, ruoli, templates, etc.) e verranno fatti esempi pratici per comprendere il funzionamento di Ansible su ambienti di sviluppo in locale e in remoto (i.e. Google Cloud Platform).\r\n\r\nRivolto a chiunque voglia conoscere Ansible (developers, devops, etc.).\r\n\r\nSono richiesti Vagrant (https://www.vagrantup.com/downloads.html) e virtualbox già installati sui propri portatili.",
-        "icon": "",
-        "image": "",
-        "language": "Italian",
-        "languageFlag": "🇮🇹",
-        "presentation": "",
-        "speakers": [
-          "giovanni_albero"
-        ],
-        "tags": [
-          "OpenSource",
-          "Web",
-          "GoogleCloud"
-        ],
-        "title": "Ansible - scrivere un playbook, gestire macchine virtuali in locale e in remoto.",
-        "videoId": ""
-      },
-      "chrome_extension_come_svilupparle_e_mantenerle_in_modo_efficiente": {
-        "complexity": "Intermediate",
-        "description": "Spesso ci troviamo a svolgere attività ripetitive che potrebbero essere compiute automaticamente o facilitate da una Chrome extension. Ma come crearla? Affronteremo assieme la realizzazione e il mantenimento di questi utili software.",
-        "icon": "",
-        "image": "",
-        "language": "Italian",
-        "languageFlag": "🇮🇹",
-        "presentation": "",
-        "speakers": [
-          "giovanni_albero"
-        ],
-        "tags": [
-          "Web",
-          "OpenSource"
-        ],
-        "title": "Chrome extension: come svilupparle e mantenerle in modo efficiente",
-        "videoId": ""
-      },
       "google_cloud_101_architecture_and_orchestration": {
         "complexity": "Beginner",
         "description": "An hour dedicated to a quick tour of the Google Cloud Platform: its structure, its complexity, its tools, architectures and fundamentals. ",
@@ -558,7 +521,7 @@
         "title": "Event loop tales on I/O bound Node.js applications",
         "videoId": ""
       },
-      "ethereum_blockchain_development": {
+      "ethereum_blockchain_development_1": {
         "complexity": "Intermediate",
         "description": "Durante lo svolgimento del corso mostreremo i concetti e gli strumenti necessari a comprendere come interagire con la blockchain Ethereum e come  contestualizzarla all'interno dell'ecosistema web tradizionale.",
         "icon": "",
@@ -572,7 +535,24 @@
         "tags": [
           "Blockchain"
         ],
-        "title": "Ethereum Blockchain development",
+        "title": "Ethereum Blockchain development - Parte 1",
+        "videoId": ""
+      },
+      "ethereum_blockchain_development_2": {
+        "complexity": "Intermediate",
+        "description": "Durante lo svolgimento del corso mostreremo i concetti e gli strumenti necessari a comprendere come interagire con la blockchain Ethereum e come  contestualizzarla all'interno dell'ecosistema web tradizionale.",
+        "icon": "",
+        "image": "",
+        "language": "Italian",
+        "languageFlag": "🇮🇹",
+        "presentation": "",
+        "speakers": [
+          "giovanni_bruno"
+        ],
+        "tags": [
+          "Blockchain"
+        ],
+        "title": "Ethereum Blockchain development - Parte 2",
         "videoId": ""
       },
       "la_morte_nera_e_se_fosse_prototipizzata_con_firebase_e_react": {
@@ -662,6 +642,26 @@
           "MachineLearning"
         ],
         "title": "What's new in Tensorflow 2.0",
+        "videoId": ""
+      },
+      "hyperledger": {
+        "complexity": "Intermediate",
+        "description": "La Linux Foundation con Hyperledger ha raccolto una serie di framework e strumenti open source utili a sviluppare applicazioni per il business con tecnologia blockchain. \r\nL'obiettivo di questo talk é quello di dare una panoramica dei progetti Hyperledger, focalizzandosi principalmente su Hyperledger Fabric e Hyperledger Composer, per introdurre allo sviluppo di prototipi ed applicazioni blockchain che soddisfino reali requisiti di business.",
+        "icon": "",
+        "image": "",
+        "language": "Italian",
+        "languageFlag": "🇮🇹",
+        "presentation": "",
+        "speakers": [
+          "nicola_paoli"
+        ],
+        "tags": [
+          "Blockchain",
+          "Hyperledger",
+          "Kubernetes",
+          "Docker"
+        ],
+        "title": "Introduzione allo sviluppo di applicazioni blockchain per il business con Hyperledger",
         "videoId": ""
       }
     },
@@ -1080,32 +1080,32 @@
         "socials": [],
         "title": "CTO and Senior Dev"
       },
-      "giovanni_albero": {
+      "nicola_paoli": {
         "badges": [],
-        "bio": "Co-Founder/CTO di SMarT e Full-stack developer presso Reallyzation&R-Everse.\r\nNel 2011 ho collaborato con il ministero della salute, attraverso il GOIRC per lo sviluppo di una soluzione software dedicata. Negli ultimi anni ho svolto attività di consulenza realizzando soluzioni web e software ad-hoc per la piccola e media impresa.\r\n\r\n\r\nContributor su Github (Symfony, FosElasticaBundle, DoctrinePHPCRBundle, Elastica, ecc.)",
-        "company": "SMarT Strategy Marketing Technology S.r.l.",
-        "companyLogo": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282061/Companies/smart.png",
-        "companyLogoUrl": "https://res.cloudinary.com/gdgbologna/image/upload/q_auto:low/f_auto/c_scale,w_auto,dpr_auto/v1543282061/Companies/smart.png",
-        "country": "Italia",
+        "bio": "With experience in enterprise software development, education and open-data visualization, Nicola built a critical mindset and a fast-learning approach towards new technology and innovation. \r\nCurrently, he is focusing on developing impactful and inclusive solutions at AID:Tech. \r\nNicola is an active member of the Hyperledger community. He is among the instructors of the official Hyperledger course on EdX and he submitted multiple improvements to the Hyperledger codebase.",
+        "company": "AID:Tech",
+        "companyLogo": "https://aid.technology/wp-content/uploads/2016/03/Aid-Tech-Logo-Blue-Simple-v3-PNG.png",
+        "companyLogoUrl": "https://aid.technology/wp-content/uploads/2016/03/Aid-Tech-Logo-Blue-Simple-v3-PNG.png",
+        "country": "Dublin, Ireland",
         "featured": false,
-        "name": "Giovanni Albero",
+        "name": "Nicola Paoli",
         "order": 14,
-        "photo": "https://sessionize.com/image?f=f328ee1510b0fe89c0b34b3502ce1f27,400,400,True,False,26-8047-4955-bf41-43c49d473e00.42159c24-af60-4a71-86a8-62e8cbe70f65.png",
-        "photoUrl": "https://sessionize.com/image?f=f328ee1510b0fe89c0b34b3502ce1f27,400,400,True,False,26-8047-4955-bf41-43c49d473e00.42159c24-af60-4a71-86a8-62e8cbe70f65.png",
-        "shortBio": "Co-Founder/CTO di SMarT e Full-stack developer presso Reallyzation & R-Everse.",
+        "photo": "https://sessionize.com/image?f=7b7f3d4149d62a4d5e80b0c8310ea6d2,200,200,True,False,8c-bedb-44e7-b7cc-ac985aa9829b.98399e4f-945b-4dc9-8415-8b8247426bcb.jpg",
+        "photoUrl": "https://sessionize.com/image?f=7b7f3d4149d62a4d5e80b0c8310ea6d2,200,200,True,False,8c-bedb-44e7-b7cc-ac985aa9829b.98399e4f-945b-4dc9-8415-8b8247426bcb.jpg",
+        "shortBio": "Lead Blockchain Developer @ AID:Tech",
         "socials": [
           {
             "icon": "twitter",
-            "link": "https://twitter.com/albero92",
+            "link": "https://twitter.com/nicolapaoli_it",
             "name": "Twitter"
           },
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/giovanni-albero-bba46564/",
+            "link": "https://www.linkedin.com/in/nicola-paoli/",
             "name": "LinkedIn"
           }
         ],
-        "title": "Co-Founder/CTO"
+        "title": "Blockchain Developer"
       }
     },
     "team": [{
@@ -1206,8 +1206,58 @@
             "link": "https://www.linkedin.com/in/micheledesimoni/",
             "name": "Linkedin"
         }],
-        "order": 3,
+        "order": 4,
         "title": "Organizer | GDG Bologna"
+    }, {
+          "name": "Marco Giroldini",
+          "photoUrl": "https://media.licdn.com/dms/image/C4D03AQF-saXDeVR6nQ/profile-displayphoto-shrink_800_800/0?e=1548892800&v=beta&t=yLGeSxt9zI6oywIU8QXV0PI7mpxC65H3SXrFiHK8nh4",
+          "socials": [{
+            "icon": "github",
+            "link": "https://github.com/MarcoGiroldini",
+            "name": "Github"
+          }, {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/marcogiroldini/",
+            "name": "Linkedin"
+          }],
+          "order": 5,
+          "title": "Organizer | GDG Reggio Emilia"
+    }, {
+          "name": "Simone Cavazzoni",
+          "photoUrl": "https://media.licdn.com/dms/image/C5603AQHmCFBf0Gt_8Q/profile-displayphoto-shrink_200_200/0?e=1548892800&v=beta&t=GNt9a7x9Er_u221I8FmsG_ItnBenerB8zwzYQ1VsVZ4",
+          "socials": [{
+            "icon": "website",
+            "link": "https://simonecavazzoni.com",
+            "name": "Website"
+          }, {
+            "icon": "github",
+            "link": "https://github.com/Zimm1",
+            "name": "Github"
+          }, {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/simone-cavazzoni/",
+            "name": "Linkedin"
+          }],
+          "order": 6,
+          "title": "Organizer | GDG Reggio Emilia"
+    }, {
+          "name": "Simone Botti",
+          "photoUrl": "https://media.licdn.com/dms/image/C5603AQHHfFbCXVyoDw/profile-displayphoto-shrink_800_800/0?e=1548892800&v=beta&t=E1K0RJwKh18vC5UE6wN8x6ardZtugmk5AAkVYYa6nRk",
+          "socials": [{
+            "icon": "website",
+            "link": "http://www.leaktd.com/simonebotti/",
+            "name": "Website"
+          }, {
+            "icon": "github",
+            "link": "https://github.com/SimoneBotti",
+            "name": "Github"
+          }, {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/simone-botti07/",
+            "name": "Linkedin"
+          }],
+          "order": 7,
+          "title": "Organizer | GDG Reggio Emilia"
     }]
     }, {
         "title": "Contributors ❤",
